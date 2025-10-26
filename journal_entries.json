@@ -1,0 +1,222 @@
+[
+  {
+    "user_id": "user_007",
+    "date": "2025-07-26",
+    "entry": "Had a great conversation with my friend. It really helped my mood.",
+    "sentiment_score": -0.29,
+    "word_count": 126,
+    "topics_detected": [
+      "friends",
+      "sleep"
+    ]
+  },
+  {
+    "user_id": "user_009",
+    "date": "2025-07-05",
+    "entry": "Feel grateful for my support system. Friends and family are amazing.",
+    "sentiment_score": 0.32,
+    "word_count": 39,
+    "topics_detected": [
+      "friends",
+      "family"
+    ]
+  },
+  {
+    "user_id": "user_008",
+    "date": "2025-07-28",
+    "entry": "Feel grateful for my support system. Friends and family are amazing.",
+    "sentiment_score": -0.57,
+    "word_count": 108,
+    "topics_detected": [
+      "school",
+      "happiness"
+    ]
+  },
+  {
+    "user_id": "user_006",
+    "date": "2025-07-03",
+    "entry": "Struggling with sleep lately. Maybe I should try the meditation feature.",
+    "sentiment_score": -0.52,
+    "word_count": 135,
+    "topics_detected": [
+      "happiness",
+      "friends"
+    ]
+  },
+  {
+    "user_id": "user_006",
+    "date": "2025-07-17",
+    "entry": "Feeling overwhelmed with schoolwork. Need to break it down into smaller tasks.",
+    "sentiment_score": -0.7,
+    "word_count": 63,
+    "topics_detected": [
+      "sleep",
+      "anxiety"
+    ]
+  },
+  {
+    "user_id": "user_001",
+    "date": "2025-07-14",
+    "entry": "Had a great conversation with my friend. It really helped my mood.",
+    "sentiment_score": 0.71,
+    "word_count": 110,
+    "topics_detected": [
+      "happiness",
+      "family"
+    ]
+  },
+  {
+    "user_id": "user_003",
+    "date": "2025-07-19",
+    "entry": "Feeling anxious about the upcoming exam. Need to practice breathing exercises.",
+    "sentiment_score": -0.44,
+    "word_count": 30,
+    "topics_detected": [
+      "family",
+      "stress"
+    ]
+  },
+  {
+    "user_id": "user_004",
+    "date": "2025-07-01",
+    "entry": "Feel grateful for my support system. Friends and family are amazing.",
+    "sentiment_score": -0.31,
+    "word_count": 75,
+    "topics_detected": [
+      "stress",
+      "sleep"
+    ]
+  },
+  {
+    "user_id": "user_001",
+    "date": "2025-07-08",
+    "entry": "Feel grateful for my support system. Friends and family are amazing.",
+    "sentiment_score": 0.16,
+    "word_count": 111,
+    "topics_detected": [
+      "happiness",
+      "sleep"
+    ]
+  },
+  {
+    "user_id": "user_003",
+    "date": "2025-07-28",
+    "entry": "Had a great conversation with my friend. It really helped my mood.",
+    "sentiment_score": 0.37,
+    "word_count": 90,
+    "topics_detected": [
+      "sleep",
+      "stress"
+    ]
+  },
+  {
+    "user_id": "user_008",
+    "date": "2025-07-12",
+    "entry": "Struggling with sleep lately. Maybe I should try the meditation feature.",
+    "sentiment_score": -0.26,
+    "word_count": 92,
+    "topics_detected": [
+      "friends",
+      "school"
+    ]
+  },
+  {
+    "user_id": "user_008",
+    "date": "2025-07-27",
+    "entry": "Having trouble concentrating. The app's focus exercises might help.",
+    "sentiment_score": 0.52,
+    "word_count": 64,
+    "topics_detected": [
+      "happiness",
+      "friends"
+    ]
+  },
+  {
+    "user_id": "user_010",
+    "date": "2025-07-22",
+    "entry": "Feeling overwhelmed with schoolwork. Need to break it down into smaller tasks.",
+    "sentiment_score": 0.12,
+    "word_count": 55,
+    "topics_detected": [
+      "family",
+      "happiness"
+    ]
+  },
+  {
+    "user_id": "user_005",
+    "date": "2025-07-06",
+    "entry": "Having trouble concentrating. The app's focus exercises might help.",
+    "sentiment_score": 0.51,
+    "word_count": 96,
+    "topics_detected": [
+      "family",
+      "stress"
+    ]
+  },
+  {
+    "user_id": "user_003",
+    "date": "2025-07-20",
+    "entry": "Proud of myself for finishing my art project. It turned out better than expected.",
+    "sentiment_score": -0.86,
+    "word_count": 26,
+    "topics_detected": [
+      "sleep",
+      "friends"
+    ]
+  },
+  {
+    "user_id": "user_001",
+    "date": "2025-07-26",
+    "entry": "Went for a walk today and it really cleared my head.",
+    "sentiment_score": 0.8,
+    "word_count": 110,
+    "topics_detected": [
+      "school",
+      "friends"
+    ]
+  },
+  {
+    "user_id": "user_008",
+    "date": "2025-07-02",
+    "entry": "Having trouble concentrating. The app's focus exercises might help.",
+    "sentiment_score": -0.25,
+    "word_count": 37,
+    "topics_detected": [
+      "friends",
+      "sleep"
+    ]
+  },
+  {
+    "user_id": "user_006",
+    "date": "2025-06-30",
+    "entry": "Today was a good day. I felt more confident during my presentation.",
+    "sentiment_score": 0.5,
+    "word_count": 28,
+    "topics_detected": [
+      "school",
+      "sleep"
+    ]
+  },
+  {
+    "user_id": "user_004",
+    "date": "2025-07-23",
+    "entry": "Had a great conversation with my friend. It really helped my mood.",
+    "sentiment_score": 0.44,
+    "word_count": 64,
+    "topics_detected": [
+      "friends",
+      "family"
+    ]
+  },
+  {
+    "user_id": "user_008",
+    "date": "2025-07-22",
+    "entry": "Feel grateful for my support system. Friends and family are amazing.",
+    "sentiment_score": 0.86,
+    "word_count": 93,
+    "topics_detected": [
+      "sleep",
+      "anxiety"
+    ]
+  }
+]

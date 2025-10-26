@@ -1,0 +1,84 @@
+{
+  "badges": [
+    {
+      "name": "Daily Check-in Champion",
+      "description": "Logged mood for 7 consecutive days",
+      "icon": "\ud83c\udfc6"
+    },
+    {
+      "name": "Self-Care Star",
+      "description": "Completed 10 self-care activities",
+      "icon": "\u2b50"
+    },
+    {
+      "name": "Mindfulness Master",
+      "description": "Completed 5 meditation sessions",
+      "icon": "\ud83e\uddd8"
+    },
+    {
+      "name": "Journal Journey",
+      "description": "Wrote 10 journal entries",
+      "icon": "\ud83d\udcdd"
+    },
+    {
+      "name": "Sleep Supporter",
+      "description": "Maintained healthy sleep schedule for a week",
+      "icon": "\ud83d\udca4"
+    },
+    {
+      "name": "Exercise Explorer",
+      "description": "Logged physical activity for 5 days",
+      "icon": "\ud83c\udfc3"
+    },
+    {
+      "name": "Positivity Pioneer",
+      "description": "Shared positive mood for 3 consecutive days",
+      "icon": "\ud83d\ude0a"
+    },
+    {
+      "name": "Coping Champion",
+      "description": "Used 5 different coping strategies",
+      "icon": "\ud83d\udcaa"
+    }
+  ],
+  "point_system": {
+    "daily_check_in": 10,
+    "journal_entry": 15,
+    "meditation_session": 20,
+    "self_care_activity": 12,
+    "resource_exploration": 8,
+    "streak_bonus": 5
+  },
+  "levels": [
+    {
+      "level": 1,
+      "name": "Mental Health Newcomer",
+      "points_required": 0
+    },
+    {
+      "level": 2,
+      "name": "Wellness Explorer",
+      "points_required": 100
+    },
+    {
+      "level": 3,
+      "name": "Self-Care Seeker",
+      "points_required": 250
+    },
+    {
+      "level": 4,
+      "name": "Mindfulness Apprentice",
+      "points_required": 500
+    },
+    {
+      "level": 5,
+      "name": "Wellness Warrior",
+      "points_required": 1000
+    },
+    {
+      "level": 6,
+      "name": "Mental Health Mentor",
+      "points_required": 2000
+    }
+  ]
+}

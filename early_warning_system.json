@@ -1,0 +1,24 @@
+{
+  "risk_indicators": [
+    "Significant mood decline over 3+ days",
+    "Increased isolation scores",
+    "Sleep pattern disruption",
+    "Decreased engagement with support features",
+    "Negative sentiment in journal entries",
+    "Skipping daily check-ins after regular use"
+  ],
+  "intervention_triggers": [
+    "Mood score below 3 for 3 consecutive days",
+    "Journal sentiment consistently negative (<-0.5) for 5 days",
+    "User reports feeling 'hopeless' or 'worthless'",
+    "Complete withdrawal from app usage after regular engagement",
+    "Explicit mention of self-harm thoughts"
+  ],
+  "response_protocols": [
+    "Gentle check-in notification with personalized message",
+    "Suggested coping resources based on user preferences",
+    "Offering connection to crisis support if appropriate",
+    "Recommending trusted adult contact (if consented)",
+    "Emergency protocol activation if immediate risk detected"
+  ]
+}

@@ -1,0 +1,3002 @@
+[
+  {
+    "user_id": "user_001",
+    "date": "2025-07-30",
+    "mood": "Neutral",
+    "mood_score": 6,
+    "sleep_hours": 12,
+    "exercise_minutes": 54,
+    "social_interaction": "Low",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_001",
+    "date": "2025-07-29",
+    "mood": "Very Happy",
+    "mood_score": 9,
+    "sleep_hours": 10,
+    "exercise_minutes": 52,
+    "social_interaction": "Low",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_001",
+    "date": "2025-07-28",
+    "mood": "Anxious",
+    "mood_score": 10,
+    "sleep_hours": 9,
+    "exercise_minutes": 47,
+    "social_interaction": "Medium",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_001",
+    "date": "2025-07-27",
+    "mood": "Frustrated",
+    "mood_score": 3,
+    "sleep_hours": 8,
+    "exercise_minutes": 89,
+    "social_interaction": "High",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_001",
+    "date": "2025-07-26",
+    "mood": "Anxious",
+    "mood_score": 1,
+    "sleep_hours": 5,
+    "exercise_minutes": 13,
+    "social_interaction": "Low",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_001",
+    "date": "2025-07-25",
+    "mood": "Frustrated",
+    "mood_score": 6,
+    "sleep_hours": 11,
+    "exercise_minutes": 99,
+    "social_interaction": "Medium",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_001",
+    "date": "2025-07-24",
+    "mood": "Excited",
+    "mood_score": 10,
+    "sleep_hours": 7,
+    "exercise_minutes": 110,
+    "social_interaction": "Medium",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_001",
+    "date": "2025-07-23",
+    "mood": "Happy",
+    "mood_score": 9,
+    "sleep_hours": 4,
+    "exercise_minutes": 104,
+    "social_interaction": "High",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_001",
+    "date": "2025-07-22",
+    "mood": "Neutral",
+    "mood_score": 9,
+    "sleep_hours": 6,
+    "exercise_minutes": 24,
+    "social_interaction": "Medium",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_001",
+    "date": "2025-07-21",
+    "mood": "Happy",
+    "mood_score": 3,
+    "sleep_hours": 4,
+    "exercise_minutes": 25,
+    "social_interaction": "Medium",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_001",
+    "date": "2025-07-20",
+    "mood": "Very Happy",
+    "mood_score": 7,
+    "sleep_hours": 7,
+    "exercise_minutes": 108,
+    "social_interaction": "High",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_001",
+    "date": "2025-07-19",
+    "mood": "Excited",
+    "mood_score": 7,
+    "sleep_hours": 6,
+    "exercise_minutes": 76,
+    "social_interaction": "Medium",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_001",
+    "date": "2025-07-18",
+    "mood": "Sad",
+    "mood_score": 7,
+    "sleep_hours": 12,
+    "exercise_minutes": 114,
+    "social_interaction": "Medium",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_001",
+    "date": "2025-07-17",
+    "mood": "Sad",
+    "mood_score": 4,
+    "sleep_hours": 5,
+    "exercise_minutes": 10,
+    "social_interaction": "High",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_001",
+    "date": "2025-07-16",
+    "mood": "Happy",
+    "mood_score": 6,
+    "sleep_hours": 10,
+    "exercise_minutes": 28,
+    "social_interaction": "High",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_001",
+    "date": "2025-07-15",
+    "mood": "Anxious",
+    "mood_score": 6,
+    "sleep_hours": 11,
+    "exercise_minutes": 97,
+    "social_interaction": "High",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_001",
+    "date": "2025-07-14",
+    "mood": "Excited",
+    "mood_score": 8,
+    "sleep_hours": 9,
+    "exercise_minutes": 108,
+    "social_interaction": "Low",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_001",
+    "date": "2025-07-13",
+    "mood": "Happy",
+    "mood_score": 4,
+    "sleep_hours": 8,
+    "exercise_minutes": 63,
+    "social_interaction": "Medium",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_001",
+    "date": "2025-07-12",
+    "mood": "Anxious",
+    "mood_score": 1,
+    "sleep_hours": 6,
+    "exercise_minutes": 55,
+    "social_interaction": "High",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_001",
+    "date": "2025-07-11",
+    "mood": "Neutral",
+    "mood_score": 10,
+    "sleep_hours": 8,
+    "exercise_minutes": 105,
+    "social_interaction": "Low",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_001",
+    "date": "2025-07-10",
+    "mood": "Neutral",
+    "mood_score": 1,
+    "sleep_hours": 11,
+    "exercise_minutes": 32,
+    "social_interaction": "High",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_001",
+    "date": "2025-07-09",
+    "mood": "Sad",
+    "mood_score": 5,
+    "sleep_hours": 4,
+    "exercise_minutes": 16,
+    "social_interaction": "Medium",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_001",
+    "date": "2025-07-08",
+    "mood": "Frustrated",
+    "mood_score": 7,
+    "sleep_hours": 10,
+    "exercise_minutes": 22,
+    "social_interaction": "High",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_001",
+    "date": "2025-07-07",
+    "mood": "Excited",
+    "mood_score": 9,
+    "sleep_hours": 4,
+    "exercise_minutes": 75,
+    "social_interaction": "Low",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_001",
+    "date": "2025-07-06",
+    "mood": "Excited",
+    "mood_score": 3,
+    "sleep_hours": 10,
+    "exercise_minutes": 94,
+    "social_interaction": "Low",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_001",
+    "date": "2025-07-05",
+    "mood": "Happy",
+    "mood_score": 2,
+    "sleep_hours": 10,
+    "exercise_minutes": 117,
+    "social_interaction": "High",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_001",
+    "date": "2025-07-04",
+    "mood": "Happy",
+    "mood_score": 5,
+    "sleep_hours": 7,
+    "exercise_minutes": 73,
+    "social_interaction": "Medium",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_001",
+    "date": "2025-07-03",
+    "mood": "Neutral",
+    "mood_score": 1,
+    "sleep_hours": 8,
+    "exercise_minutes": 96,
+    "social_interaction": "Medium",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_001",
+    "date": "2025-07-02",
+    "mood": "Neutral",
+    "mood_score": 4,
+    "sleep_hours": 11,
+    "exercise_minutes": 15,
+    "social_interaction": "Low",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_001",
+    "date": "2025-07-01",
+    "mood": "Frustrated",
+    "mood_score": 3,
+    "sleep_hours": 10,
+    "exercise_minutes": 98,
+    "social_interaction": "High",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_002",
+    "date": "2025-07-30",
+    "mood": "Excited",
+    "mood_score": 10,
+    "sleep_hours": 10,
+    "exercise_minutes": 45,
+    "social_interaction": "Medium",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_002",
+    "date": "2025-07-29",
+    "mood": "Anxious",
+    "mood_score": 6,
+    "sleep_hours": 5,
+    "exercise_minutes": 77,
+    "social_interaction": "Low",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_002",
+    "date": "2025-07-28",
+    "mood": "Very Sad",
+    "mood_score": 2,
+    "sleep_hours": 9,
+    "exercise_minutes": 24,
+    "social_interaction": "High",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_002",
+    "date": "2025-07-27",
+    "mood": "Sad",
+    "mood_score": 8,
+    "sleep_hours": 12,
+    "exercise_minutes": 1,
+    "social_interaction": "Medium",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_002",
+    "date": "2025-07-26",
+    "mood": "Very Sad",
+    "mood_score": 3,
+    "sleep_hours": 9,
+    "exercise_minutes": 38,
+    "social_interaction": "Low",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_002",
+    "date": "2025-07-25",
+    "mood": "Sad",
+    "mood_score": 7,
+    "sleep_hours": 8,
+    "exercise_minutes": 41,
+    "social_interaction": "Medium",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_002",
+    "date": "2025-07-24",
+    "mood": "Anxious",
+    "mood_score": 9,
+    "sleep_hours": 8,
+    "exercise_minutes": 116,
+    "social_interaction": "Medium",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_002",
+    "date": "2025-07-23",
+    "mood": "Anxious",
+    "mood_score": 6,
+    "sleep_hours": 7,
+    "exercise_minutes": 7,
+    "social_interaction": "Low",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_002",
+    "date": "2025-07-22",
+    "mood": "Excited",
+    "mood_score": 2,
+    "sleep_hours": 7,
+    "exercise_minutes": 82,
+    "social_interaction": "High",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_002",
+    "date": "2025-07-21",
+    "mood": "Very Sad",
+    "mood_score": 2,
+    "sleep_hours": 11,
+    "exercise_minutes": 74,
+    "social_interaction": "High",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_002",
+    "date": "2025-07-20",
+    "mood": "Frustrated",
+    "mood_score": 10,
+    "sleep_hours": 7,
+    "exercise_minutes": 24,
+    "social_interaction": "High",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_002",
+    "date": "2025-07-19",
+    "mood": "Very Happy",
+    "mood_score": 2,
+    "sleep_hours": 7,
+    "exercise_minutes": 88,
+    "social_interaction": "High",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_002",
+    "date": "2025-07-18",
+    "mood": "Very Happy",
+    "mood_score": 2,
+    "sleep_hours": 11,
+    "exercise_minutes": 65,
+    "social_interaction": "Medium",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_002",
+    "date": "2025-07-17",
+    "mood": "Very Sad",
+    "mood_score": 7,
+    "sleep_hours": 7,
+    "exercise_minutes": 53,
+    "social_interaction": "Low",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_002",
+    "date": "2025-07-16",
+    "mood": "Neutral",
+    "mood_score": 2,
+    "sleep_hours": 8,
+    "exercise_minutes": 89,
+    "social_interaction": "Medium",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_002",
+    "date": "2025-07-15",
+    "mood": "Very Sad",
+    "mood_score": 9,
+    "sleep_hours": 8,
+    "exercise_minutes": 54,
+    "social_interaction": "Medium",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_002",
+    "date": "2025-07-14",
+    "mood": "Anxious",
+    "mood_score": 7,
+    "sleep_hours": 7,
+    "exercise_minutes": 22,
+    "social_interaction": "Medium",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_002",
+    "date": "2025-07-13",
+    "mood": "Very Sad",
+    "mood_score": 7,
+    "sleep_hours": 11,
+    "exercise_minutes": 63,
+    "social_interaction": "High",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_002",
+    "date": "2025-07-12",
+    "mood": "Neutral",
+    "mood_score": 6,
+    "sleep_hours": 4,
+    "exercise_minutes": 24,
+    "social_interaction": "High",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_002",
+    "date": "2025-07-11",
+    "mood": "Happy",
+    "mood_score": 7,
+    "sleep_hours": 10,
+    "exercise_minutes": 93,
+    "social_interaction": "Medium",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_002",
+    "date": "2025-07-10",
+    "mood": "Neutral",
+    "mood_score": 6,
+    "sleep_hours": 8,
+    "exercise_minutes": 108,
+    "social_interaction": "High",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_002",
+    "date": "2025-07-09",
+    "mood": "Very Sad",
+    "mood_score": 10,
+    "sleep_hours": 10,
+    "exercise_minutes": 66,
+    "social_interaction": "Low",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_002",
+    "date": "2025-07-08",
+    "mood": "Sad",
+    "mood_score": 6,
+    "sleep_hours": 12,
+    "exercise_minutes": 59,
+    "social_interaction": "Medium",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_002",
+    "date": "2025-07-07",
+    "mood": "Happy",
+    "mood_score": 2,
+    "sleep_hours": 10,
+    "exercise_minutes": 49,
+    "social_interaction": "Low",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_002",
+    "date": "2025-07-06",
+    "mood": "Anxious",
+    "mood_score": 8,
+    "sleep_hours": 7,
+    "exercise_minutes": 3,
+    "social_interaction": "Medium",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_002",
+    "date": "2025-07-05",
+    "mood": "Excited",
+    "mood_score": 9,
+    "sleep_hours": 7,
+    "exercise_minutes": 90,
+    "social_interaction": "High",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_002",
+    "date": "2025-07-04",
+    "mood": "Happy",
+    "mood_score": 10,
+    "sleep_hours": 5,
+    "exercise_minutes": 118,
+    "social_interaction": "Medium",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_002",
+    "date": "2025-07-03",
+    "mood": "Very Sad",
+    "mood_score": 9,
+    "sleep_hours": 10,
+    "exercise_minutes": 59,
+    "social_interaction": "Medium",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_002",
+    "date": "2025-07-02",
+    "mood": "Anxious",
+    "mood_score": 2,
+    "sleep_hours": 11,
+    "exercise_minutes": 115,
+    "social_interaction": "Low",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_002",
+    "date": "2025-07-01",
+    "mood": "Frustrated",
+    "mood_score": 4,
+    "sleep_hours": 8,
+    "exercise_minutes": 33,
+    "social_interaction": "Medium",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_003",
+    "date": "2025-07-30",
+    "mood": "Very Sad",
+    "mood_score": 2,
+    "sleep_hours": 11,
+    "exercise_minutes": 85,
+    "social_interaction": "High",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_003",
+    "date": "2025-07-29",
+    "mood": "Very Sad",
+    "mood_score": 8,
+    "sleep_hours": 7,
+    "exercise_minutes": 9,
+    "social_interaction": "Low",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_003",
+    "date": "2025-07-28",
+    "mood": "Very Sad",
+    "mood_score": 1,
+    "sleep_hours": 6,
+    "exercise_minutes": 115,
+    "social_interaction": "High",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_003",
+    "date": "2025-07-27",
+    "mood": "Neutral",
+    "mood_score": 8,
+    "sleep_hours": 10,
+    "exercise_minutes": 5,
+    "social_interaction": "High",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_003",
+    "date": "2025-07-26",
+    "mood": "Very Sad",
+    "mood_score": 5,
+    "sleep_hours": 10,
+    "exercise_minutes": 92,
+    "social_interaction": "Low",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_003",
+    "date": "2025-07-25",
+    "mood": "Sad",
+    "mood_score": 5,
+    "sleep_hours": 5,
+    "exercise_minutes": 105,
+    "social_interaction": "Medium",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_003",
+    "date": "2025-07-24",
+    "mood": "Sad",
+    "mood_score": 1,
+    "sleep_hours": 6,
+    "exercise_minutes": 84,
+    "social_interaction": "Low",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_003",
+    "date": "2025-07-23",
+    "mood": "Very Sad",
+    "mood_score": 7,
+    "sleep_hours": 9,
+    "exercise_minutes": 29,
+    "social_interaction": "Low",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_003",
+    "date": "2025-07-22",
+    "mood": "Sad",
+    "mood_score": 8,
+    "sleep_hours": 9,
+    "exercise_minutes": 54,
+    "social_interaction": "Medium",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_003",
+    "date": "2025-07-21",
+    "mood": "Frustrated",
+    "mood_score": 8,
+    "sleep_hours": 11,
+    "exercise_minutes": 106,
+    "social_interaction": "Medium",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_003",
+    "date": "2025-07-20",
+    "mood": "Very Sad",
+    "mood_score": 1,
+    "sleep_hours": 8,
+    "exercise_minutes": 98,
+    "social_interaction": "Medium",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_003",
+    "date": "2025-07-19",
+    "mood": "Frustrated",
+    "mood_score": 8,
+    "sleep_hours": 8,
+    "exercise_minutes": 68,
+    "social_interaction": "Low",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_003",
+    "date": "2025-07-18",
+    "mood": "Very Happy",
+    "mood_score": 8,
+    "sleep_hours": 8,
+    "exercise_minutes": 43,
+    "social_interaction": "High",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_003",
+    "date": "2025-07-17",
+    "mood": "Neutral",
+    "mood_score": 10,
+    "sleep_hours": 6,
+    "exercise_minutes": 37,
+    "social_interaction": "High",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_003",
+    "date": "2025-07-16",
+    "mood": "Happy",
+    "mood_score": 7,
+    "sleep_hours": 5,
+    "exercise_minutes": 36,
+    "social_interaction": "High",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_003",
+    "date": "2025-07-15",
+    "mood": "Very Happy",
+    "mood_score": 10,
+    "sleep_hours": 8,
+    "exercise_minutes": 64,
+    "social_interaction": "Medium",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_003",
+    "date": "2025-07-14",
+    "mood": "Very Sad",
+    "mood_score": 6,
+    "sleep_hours": 11,
+    "exercise_minutes": 63,
+    "social_interaction": "High",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_003",
+    "date": "2025-07-13",
+    "mood": "Neutral",
+    "mood_score": 7,
+    "sleep_hours": 6,
+    "exercise_minutes": 107,
+    "social_interaction": "Low",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_003",
+    "date": "2025-07-12",
+    "mood": "Excited",
+    "mood_score": 10,
+    "sleep_hours": 5,
+    "exercise_minutes": 50,
+    "social_interaction": "Low",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_003",
+    "date": "2025-07-11",
+    "mood": "Frustrated",
+    "mood_score": 9,
+    "sleep_hours": 12,
+    "exercise_minutes": 64,
+    "social_interaction": "High",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_003",
+    "date": "2025-07-10",
+    "mood": "Very Happy",
+    "mood_score": 9,
+    "sleep_hours": 11,
+    "exercise_minutes": 26,
+    "social_interaction": "Low",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_003",
+    "date": "2025-07-09",
+    "mood": "Neutral",
+    "mood_score": 8,
+    "sleep_hours": 12,
+    "exercise_minutes": 73,
+    "social_interaction": "Low",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_003",
+    "date": "2025-07-08",
+    "mood": "Excited",
+    "mood_score": 2,
+    "sleep_hours": 5,
+    "exercise_minutes": 40,
+    "social_interaction": "Medium",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_003",
+    "date": "2025-07-07",
+    "mood": "Very Happy",
+    "mood_score": 6,
+    "sleep_hours": 5,
+    "exercise_minutes": 42,
+    "social_interaction": "High",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_003",
+    "date": "2025-07-06",
+    "mood": "Neutral",
+    "mood_score": 9,
+    "sleep_hours": 10,
+    "exercise_minutes": 60,
+    "social_interaction": "High",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_003",
+    "date": "2025-07-05",
+    "mood": "Excited",
+    "mood_score": 2,
+    "sleep_hours": 10,
+    "exercise_minutes": 7,
+    "social_interaction": "Low",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_003",
+    "date": "2025-07-04",
+    "mood": "Excited",
+    "mood_score": 5,
+    "sleep_hours": 6,
+    "exercise_minutes": 80,
+    "social_interaction": "Medium",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_003",
+    "date": "2025-07-03",
+    "mood": "Anxious",
+    "mood_score": 3,
+    "sleep_hours": 8,
+    "exercise_minutes": 27,
+    "social_interaction": "Medium",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_003",
+    "date": "2025-07-02",
+    "mood": "Happy",
+    "mood_score": 8,
+    "sleep_hours": 6,
+    "exercise_minutes": 92,
+    "social_interaction": "Medium",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_003",
+    "date": "2025-07-01",
+    "mood": "Happy",
+    "mood_score": 2,
+    "sleep_hours": 4,
+    "exercise_minutes": 65,
+    "social_interaction": "Low",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_004",
+    "date": "2025-07-30",
+    "mood": "Excited",
+    "mood_score": 7,
+    "sleep_hours": 7,
+    "exercise_minutes": 7,
+    "social_interaction": "High",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_004",
+    "date": "2025-07-29",
+    "mood": "Frustrated",
+    "mood_score": 4,
+    "sleep_hours": 12,
+    "exercise_minutes": 99,
+    "social_interaction": "Low",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_004",
+    "date": "2025-07-28",
+    "mood": "Anxious",
+    "mood_score": 3,
+    "sleep_hours": 7,
+    "exercise_minutes": 74,
+    "social_interaction": "High",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_004",
+    "date": "2025-07-27",
+    "mood": "Anxious",
+    "mood_score": 5,
+    "sleep_hours": 9,
+    "exercise_minutes": 48,
+    "social_interaction": "Low",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_004",
+    "date": "2025-07-26",
+    "mood": "Frustrated",
+    "mood_score": 1,
+    "sleep_hours": 10,
+    "exercise_minutes": 14,
+    "social_interaction": "High",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_004",
+    "date": "2025-07-25",
+    "mood": "Excited",
+    "mood_score": 10,
+    "sleep_hours": 9,
+    "exercise_minutes": 11,
+    "social_interaction": "Medium",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_004",
+    "date": "2025-07-24",
+    "mood": "Very Sad",
+    "mood_score": 4,
+    "sleep_hours": 7,
+    "exercise_minutes": 18,
+    "social_interaction": "Medium",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_004",
+    "date": "2025-07-23",
+    "mood": "Sad",
+    "mood_score": 5,
+    "sleep_hours": 9,
+    "exercise_minutes": 88,
+    "social_interaction": "Low",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_004",
+    "date": "2025-07-22",
+    "mood": "Excited",
+    "mood_score": 8,
+    "sleep_hours": 6,
+    "exercise_minutes": 61,
+    "social_interaction": "Medium",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_004",
+    "date": "2025-07-21",
+    "mood": "Excited",
+    "mood_score": 5,
+    "sleep_hours": 7,
+    "exercise_minutes": 117,
+    "social_interaction": "High",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_004",
+    "date": "2025-07-20",
+    "mood": "Frustrated",
+    "mood_score": 4,
+    "sleep_hours": 7,
+    "exercise_minutes": 5,
+    "social_interaction": "Low",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_004",
+    "date": "2025-07-19",
+    "mood": "Sad",
+    "mood_score": 5,
+    "sleep_hours": 6,
+    "exercise_minutes": 19,
+    "social_interaction": "Low",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_004",
+    "date": "2025-07-18",
+    "mood": "Very Sad",
+    "mood_score": 7,
+    "sleep_hours": 11,
+    "exercise_minutes": 17,
+    "social_interaction": "High",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_004",
+    "date": "2025-07-17",
+    "mood": "Frustrated",
+    "mood_score": 2,
+    "sleep_hours": 7,
+    "exercise_minutes": 118,
+    "social_interaction": "High",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_004",
+    "date": "2025-07-16",
+    "mood": "Neutral",
+    "mood_score": 1,
+    "sleep_hours": 9,
+    "exercise_minutes": 102,
+    "social_interaction": "Medium",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_004",
+    "date": "2025-07-15",
+    "mood": "Neutral",
+    "mood_score": 10,
+    "sleep_hours": 5,
+    "exercise_minutes": 27,
+    "social_interaction": "Medium",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_004",
+    "date": "2025-07-14",
+    "mood": "Anxious",
+    "mood_score": 5,
+    "sleep_hours": 5,
+    "exercise_minutes": 3,
+    "social_interaction": "Low",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_004",
+    "date": "2025-07-13",
+    "mood": "Happy",
+    "mood_score": 4,
+    "sleep_hours": 4,
+    "exercise_minutes": 55,
+    "social_interaction": "Low",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_004",
+    "date": "2025-07-12",
+    "mood": "Frustrated",
+    "mood_score": 10,
+    "sleep_hours": 11,
+    "exercise_minutes": 94,
+    "social_interaction": "High",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_004",
+    "date": "2025-07-11",
+    "mood": "Anxious",
+    "mood_score": 9,
+    "sleep_hours": 7,
+    "exercise_minutes": 31,
+    "social_interaction": "Low",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_004",
+    "date": "2025-07-10",
+    "mood": "Happy",
+    "mood_score": 8,
+    "sleep_hours": 9,
+    "exercise_minutes": 119,
+    "social_interaction": "High",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_004",
+    "date": "2025-07-09",
+    "mood": "Anxious",
+    "mood_score": 9,
+    "sleep_hours": 5,
+    "exercise_minutes": 15,
+    "social_interaction": "Medium",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_004",
+    "date": "2025-07-08",
+    "mood": "Sad",
+    "mood_score": 7,
+    "sleep_hours": 5,
+    "exercise_minutes": 20,
+    "social_interaction": "High",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_004",
+    "date": "2025-07-07",
+    "mood": "Very Sad",
+    "mood_score": 2,
+    "sleep_hours": 10,
+    "exercise_minutes": 119,
+    "social_interaction": "Low",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_004",
+    "date": "2025-07-06",
+    "mood": "Sad",
+    "mood_score": 6,
+    "sleep_hours": 8,
+    "exercise_minutes": 89,
+    "social_interaction": "High",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_004",
+    "date": "2025-07-05",
+    "mood": "Happy",
+    "mood_score": 6,
+    "sleep_hours": 5,
+    "exercise_minutes": 113,
+    "social_interaction": "Medium",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_004",
+    "date": "2025-07-04",
+    "mood": "Neutral",
+    "mood_score": 2,
+    "sleep_hours": 7,
+    "exercise_minutes": 44,
+    "social_interaction": "Low",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_004",
+    "date": "2025-07-03",
+    "mood": "Very Sad",
+    "mood_score": 10,
+    "sleep_hours": 7,
+    "exercise_minutes": 115,
+    "social_interaction": "Medium",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_004",
+    "date": "2025-07-02",
+    "mood": "Excited",
+    "mood_score": 3,
+    "sleep_hours": 8,
+    "exercise_minutes": 96,
+    "social_interaction": "Low",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_004",
+    "date": "2025-07-01",
+    "mood": "Happy",
+    "mood_score": 10,
+    "sleep_hours": 9,
+    "exercise_minutes": 31,
+    "social_interaction": "High",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_005",
+    "date": "2025-07-30",
+    "mood": "Sad",
+    "mood_score": 3,
+    "sleep_hours": 7,
+    "exercise_minutes": 75,
+    "social_interaction": "Medium",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_005",
+    "date": "2025-07-29",
+    "mood": "Excited",
+    "mood_score": 7,
+    "sleep_hours": 10,
+    "exercise_minutes": 37,
+    "social_interaction": "Medium",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_005",
+    "date": "2025-07-28",
+    "mood": "Anxious",
+    "mood_score": 10,
+    "sleep_hours": 11,
+    "exercise_minutes": 110,
+    "social_interaction": "High",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_005",
+    "date": "2025-07-27",
+    "mood": "Excited",
+    "mood_score": 8,
+    "sleep_hours": 8,
+    "exercise_minutes": 76,
+    "social_interaction": "High",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_005",
+    "date": "2025-07-26",
+    "mood": "Anxious",
+    "mood_score": 3,
+    "sleep_hours": 10,
+    "exercise_minutes": 93,
+    "social_interaction": "Medium",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_005",
+    "date": "2025-07-25",
+    "mood": "Excited",
+    "mood_score": 5,
+    "sleep_hours": 5,
+    "exercise_minutes": 74,
+    "social_interaction": "Low",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_005",
+    "date": "2025-07-24",
+    "mood": "Very Happy",
+    "mood_score": 8,
+    "sleep_hours": 5,
+    "exercise_minutes": 98,
+    "social_interaction": "Low",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_005",
+    "date": "2025-07-23",
+    "mood": "Frustrated",
+    "mood_score": 8,
+    "sleep_hours": 9,
+    "exercise_minutes": 83,
+    "social_interaction": "Medium",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_005",
+    "date": "2025-07-22",
+    "mood": "Neutral",
+    "mood_score": 9,
+    "sleep_hours": 7,
+    "exercise_minutes": 93,
+    "social_interaction": "Medium",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_005",
+    "date": "2025-07-21",
+    "mood": "Happy",
+    "mood_score": 2,
+    "sleep_hours": 8,
+    "exercise_minutes": 102,
+    "social_interaction": "High",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_005",
+    "date": "2025-07-20",
+    "mood": "Excited",
+    "mood_score": 3,
+    "sleep_hours": 12,
+    "exercise_minutes": 71,
+    "social_interaction": "Medium",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_005",
+    "date": "2025-07-19",
+    "mood": "Neutral",
+    "mood_score": 8,
+    "sleep_hours": 11,
+    "exercise_minutes": 58,
+    "social_interaction": "High",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_005",
+    "date": "2025-07-18",
+    "mood": "Very Sad",
+    "mood_score": 10,
+    "sleep_hours": 11,
+    "exercise_minutes": 114,
+    "social_interaction": "Medium",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_005",
+    "date": "2025-07-17",
+    "mood": "Very Happy",
+    "mood_score": 3,
+    "sleep_hours": 4,
+    "exercise_minutes": 9,
+    "social_interaction": "Low",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_005",
+    "date": "2025-07-16",
+    "mood": "Very Happy",
+    "mood_score": 4,
+    "sleep_hours": 9,
+    "exercise_minutes": 65,
+    "social_interaction": "Medium",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_005",
+    "date": "2025-07-15",
+    "mood": "Excited",
+    "mood_score": 5,
+    "sleep_hours": 11,
+    "exercise_minutes": 42,
+    "social_interaction": "High",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_005",
+    "date": "2025-07-14",
+    "mood": "Very Happy",
+    "mood_score": 2,
+    "sleep_hours": 12,
+    "exercise_minutes": 68,
+    "social_interaction": "High",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_005",
+    "date": "2025-07-13",
+    "mood": "Excited",
+    "mood_score": 4,
+    "sleep_hours": 7,
+    "exercise_minutes": 13,
+    "social_interaction": "Low",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_005",
+    "date": "2025-07-12",
+    "mood": "Sad",
+    "mood_score": 2,
+    "sleep_hours": 5,
+    "exercise_minutes": 101,
+    "social_interaction": "High",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_005",
+    "date": "2025-07-11",
+    "mood": "Neutral",
+    "mood_score": 10,
+    "sleep_hours": 7,
+    "exercise_minutes": 53,
+    "social_interaction": "Medium",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_005",
+    "date": "2025-07-10",
+    "mood": "Anxious",
+    "mood_score": 9,
+    "sleep_hours": 5,
+    "exercise_minutes": 86,
+    "social_interaction": "Medium",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_005",
+    "date": "2025-07-09",
+    "mood": "Very Happy",
+    "mood_score": 5,
+    "sleep_hours": 4,
+    "exercise_minutes": 86,
+    "social_interaction": "High",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_005",
+    "date": "2025-07-08",
+    "mood": "Very Happy",
+    "mood_score": 10,
+    "sleep_hours": 10,
+    "exercise_minutes": 3,
+    "social_interaction": "Low",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_005",
+    "date": "2025-07-07",
+    "mood": "Very Happy",
+    "mood_score": 7,
+    "sleep_hours": 4,
+    "exercise_minutes": 101,
+    "social_interaction": "Medium",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_005",
+    "date": "2025-07-06",
+    "mood": "Excited",
+    "mood_score": 10,
+    "sleep_hours": 7,
+    "exercise_minutes": 103,
+    "social_interaction": "Low",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_005",
+    "date": "2025-07-05",
+    "mood": "Neutral",
+    "mood_score": 4,
+    "sleep_hours": 12,
+    "exercise_minutes": 0,
+    "social_interaction": "Low",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_005",
+    "date": "2025-07-04",
+    "mood": "Anxious",
+    "mood_score": 6,
+    "sleep_hours": 12,
+    "exercise_minutes": 100,
+    "social_interaction": "High",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_005",
+    "date": "2025-07-03",
+    "mood": "Frustrated",
+    "mood_score": 8,
+    "sleep_hours": 12,
+    "exercise_minutes": 82,
+    "social_interaction": "Medium",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_005",
+    "date": "2025-07-02",
+    "mood": "Happy",
+    "mood_score": 8,
+    "sleep_hours": 5,
+    "exercise_minutes": 67,
+    "social_interaction": "High",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_005",
+    "date": "2025-07-01",
+    "mood": "Excited",
+    "mood_score": 9,
+    "sleep_hours": 10,
+    "exercise_minutes": 117,
+    "social_interaction": "Medium",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_006",
+    "date": "2025-07-30",
+    "mood": "Anxious",
+    "mood_score": 2,
+    "sleep_hours": 6,
+    "exercise_minutes": 64,
+    "social_interaction": "Low",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_006",
+    "date": "2025-07-29",
+    "mood": "Very Sad",
+    "mood_score": 6,
+    "sleep_hours": 7,
+    "exercise_minutes": 69,
+    "social_interaction": "Medium",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_006",
+    "date": "2025-07-28",
+    "mood": "Very Happy",
+    "mood_score": 9,
+    "sleep_hours": 4,
+    "exercise_minutes": 59,
+    "social_interaction": "Low",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_006",
+    "date": "2025-07-27",
+    "mood": "Sad",
+    "mood_score": 2,
+    "sleep_hours": 5,
+    "exercise_minutes": 16,
+    "social_interaction": "Medium",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_006",
+    "date": "2025-07-26",
+    "mood": "Very Happy",
+    "mood_score": 6,
+    "sleep_hours": 7,
+    "exercise_minutes": 10,
+    "social_interaction": "Medium",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_006",
+    "date": "2025-07-25",
+    "mood": "Excited",
+    "mood_score": 3,
+    "sleep_hours": 5,
+    "exercise_minutes": 26,
+    "social_interaction": "Medium",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_006",
+    "date": "2025-07-24",
+    "mood": "Very Happy",
+    "mood_score": 9,
+    "sleep_hours": 9,
+    "exercise_minutes": 75,
+    "social_interaction": "High",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_006",
+    "date": "2025-07-23",
+    "mood": "Very Happy",
+    "mood_score": 1,
+    "sleep_hours": 9,
+    "exercise_minutes": 105,
+    "social_interaction": "Low",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_006",
+    "date": "2025-07-22",
+    "mood": "Sad",
+    "mood_score": 1,
+    "sleep_hours": 9,
+    "exercise_minutes": 40,
+    "social_interaction": "Medium",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_006",
+    "date": "2025-07-21",
+    "mood": "Excited",
+    "mood_score": 8,
+    "sleep_hours": 9,
+    "exercise_minutes": 112,
+    "social_interaction": "High",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_006",
+    "date": "2025-07-20",
+    "mood": "Excited",
+    "mood_score": 10,
+    "sleep_hours": 12,
+    "exercise_minutes": 21,
+    "social_interaction": "Medium",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_006",
+    "date": "2025-07-19",
+    "mood": "Neutral",
+    "mood_score": 10,
+    "sleep_hours": 10,
+    "exercise_minutes": 90,
+    "social_interaction": "Low",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_006",
+    "date": "2025-07-18",
+    "mood": "Sad",
+    "mood_score": 8,
+    "sleep_hours": 4,
+    "exercise_minutes": 34,
+    "social_interaction": "High",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_006",
+    "date": "2025-07-17",
+    "mood": "Very Happy",
+    "mood_score": 2,
+    "sleep_hours": 11,
+    "exercise_minutes": 100,
+    "social_interaction": "High",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_006",
+    "date": "2025-07-16",
+    "mood": "Very Sad",
+    "mood_score": 2,
+    "sleep_hours": 7,
+    "exercise_minutes": 43,
+    "social_interaction": "High",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_006",
+    "date": "2025-07-15",
+    "mood": "Very Happy",
+    "mood_score": 1,
+    "sleep_hours": 7,
+    "exercise_minutes": 31,
+    "social_interaction": "High",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_006",
+    "date": "2025-07-14",
+    "mood": "Excited",
+    "mood_score": 8,
+    "sleep_hours": 7,
+    "exercise_minutes": 20,
+    "social_interaction": "High",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_006",
+    "date": "2025-07-13",
+    "mood": "Neutral",
+    "mood_score": 7,
+    "sleep_hours": 9,
+    "exercise_minutes": 21,
+    "social_interaction": "High",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_006",
+    "date": "2025-07-12",
+    "mood": "Anxious",
+    "mood_score": 4,
+    "sleep_hours": 11,
+    "exercise_minutes": 38,
+    "social_interaction": "Low",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_006",
+    "date": "2025-07-11",
+    "mood": "Neutral",
+    "mood_score": 5,
+    "sleep_hours": 6,
+    "exercise_minutes": 75,
+    "social_interaction": "High",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_006",
+    "date": "2025-07-10",
+    "mood": "Very Happy",
+    "mood_score": 7,
+    "sleep_hours": 8,
+    "exercise_minutes": 120,
+    "social_interaction": "Medium",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_006",
+    "date": "2025-07-09",
+    "mood": "Very Sad",
+    "mood_score": 9,
+    "sleep_hours": 8,
+    "exercise_minutes": 115,
+    "social_interaction": "Low",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_006",
+    "date": "2025-07-08",
+    "mood": "Anxious",
+    "mood_score": 9,
+    "sleep_hours": 9,
+    "exercise_minutes": 66,
+    "social_interaction": "Medium",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_006",
+    "date": "2025-07-07",
+    "mood": "Neutral",
+    "mood_score": 8,
+    "sleep_hours": 6,
+    "exercise_minutes": 67,
+    "social_interaction": "High",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_006",
+    "date": "2025-07-06",
+    "mood": "Neutral",
+    "mood_score": 10,
+    "sleep_hours": 4,
+    "exercise_minutes": 114,
+    "social_interaction": "High",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_006",
+    "date": "2025-07-05",
+    "mood": "Excited",
+    "mood_score": 1,
+    "sleep_hours": 10,
+    "exercise_minutes": 58,
+    "social_interaction": "High",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_006",
+    "date": "2025-07-04",
+    "mood": "Very Happy",
+    "mood_score": 6,
+    "sleep_hours": 9,
+    "exercise_minutes": 11,
+    "social_interaction": "Low",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_006",
+    "date": "2025-07-03",
+    "mood": "Frustrated",
+    "mood_score": 6,
+    "sleep_hours": 6,
+    "exercise_minutes": 116,
+    "social_interaction": "Low",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_006",
+    "date": "2025-07-02",
+    "mood": "Neutral",
+    "mood_score": 6,
+    "sleep_hours": 6,
+    "exercise_minutes": 64,
+    "social_interaction": "Medium",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_006",
+    "date": "2025-07-01",
+    "mood": "Frustrated",
+    "mood_score": 4,
+    "sleep_hours": 9,
+    "exercise_minutes": 16,
+    "social_interaction": "Low",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_007",
+    "date": "2025-07-30",
+    "mood": "Very Sad",
+    "mood_score": 8,
+    "sleep_hours": 5,
+    "exercise_minutes": 117,
+    "social_interaction": "Low",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_007",
+    "date": "2025-07-29",
+    "mood": "Very Sad",
+    "mood_score": 8,
+    "sleep_hours": 6,
+    "exercise_minutes": 16,
+    "social_interaction": "Low",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_007",
+    "date": "2025-07-28",
+    "mood": "Very Sad",
+    "mood_score": 7,
+    "sleep_hours": 12,
+    "exercise_minutes": 108,
+    "social_interaction": "Medium",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_007",
+    "date": "2025-07-27",
+    "mood": "Sad",
+    "mood_score": 7,
+    "sleep_hours": 6,
+    "exercise_minutes": 99,
+    "social_interaction": "Low",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_007",
+    "date": "2025-07-26",
+    "mood": "Happy",
+    "mood_score": 8,
+    "sleep_hours": 9,
+    "exercise_minutes": 68,
+    "social_interaction": "Medium",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_007",
+    "date": "2025-07-25",
+    "mood": "Neutral",
+    "mood_score": 7,
+    "sleep_hours": 8,
+    "exercise_minutes": 19,
+    "social_interaction": "High",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_007",
+    "date": "2025-07-24",
+    "mood": "Excited",
+    "mood_score": 7,
+    "sleep_hours": 12,
+    "exercise_minutes": 33,
+    "social_interaction": "Low",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_007",
+    "date": "2025-07-23",
+    "mood": "Sad",
+    "mood_score": 8,
+    "sleep_hours": 6,
+    "exercise_minutes": 80,
+    "social_interaction": "High",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_007",
+    "date": "2025-07-22",
+    "mood": "Very Happy",
+    "mood_score": 3,
+    "sleep_hours": 6,
+    "exercise_minutes": 10,
+    "social_interaction": "Low",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_007",
+    "date": "2025-07-21",
+    "mood": "Very Sad",
+    "mood_score": 7,
+    "sleep_hours": 9,
+    "exercise_minutes": 120,
+    "social_interaction": "Low",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_007",
+    "date": "2025-07-20",
+    "mood": "Very Sad",
+    "mood_score": 4,
+    "sleep_hours": 10,
+    "exercise_minutes": 88,
+    "social_interaction": "High",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_007",
+    "date": "2025-07-19",
+    "mood": "Very Happy",
+    "mood_score": 10,
+    "sleep_hours": 6,
+    "exercise_minutes": 18,
+    "social_interaction": "Medium",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_007",
+    "date": "2025-07-18",
+    "mood": "Anxious",
+    "mood_score": 4,
+    "sleep_hours": 7,
+    "exercise_minutes": 79,
+    "social_interaction": "Medium",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_007",
+    "date": "2025-07-17",
+    "mood": "Happy",
+    "mood_score": 1,
+    "sleep_hours": 5,
+    "exercise_minutes": 15,
+    "social_interaction": "Low",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_007",
+    "date": "2025-07-16",
+    "mood": "Sad",
+    "mood_score": 8,
+    "sleep_hours": 4,
+    "exercise_minutes": 41,
+    "social_interaction": "High",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_007",
+    "date": "2025-07-15",
+    "mood": "Sad",
+    "mood_score": 10,
+    "sleep_hours": 5,
+    "exercise_minutes": 63,
+    "social_interaction": "Low",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_007",
+    "date": "2025-07-14",
+    "mood": "Very Sad",
+    "mood_score": 6,
+    "sleep_hours": 4,
+    "exercise_minutes": 47,
+    "social_interaction": "Low",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_007",
+    "date": "2025-07-13",
+    "mood": "Anxious",
+    "mood_score": 4,
+    "sleep_hours": 6,
+    "exercise_minutes": 54,
+    "social_interaction": "Low",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_007",
+    "date": "2025-07-12",
+    "mood": "Happy",
+    "mood_score": 4,
+    "sleep_hours": 8,
+    "exercise_minutes": 25,
+    "social_interaction": "High",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_007",
+    "date": "2025-07-11",
+    "mood": "Neutral",
+    "mood_score": 9,
+    "sleep_hours": 8,
+    "exercise_minutes": 19,
+    "social_interaction": "Medium",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_007",
+    "date": "2025-07-10",
+    "mood": "Anxious",
+    "mood_score": 9,
+    "sleep_hours": 12,
+    "exercise_minutes": 56,
+    "social_interaction": "Low",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_007",
+    "date": "2025-07-09",
+    "mood": "Very Happy",
+    "mood_score": 4,
+    "sleep_hours": 12,
+    "exercise_minutes": 9,
+    "social_interaction": "Medium",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_007",
+    "date": "2025-07-08",
+    "mood": "Frustrated",
+    "mood_score": 2,
+    "sleep_hours": 12,
+    "exercise_minutes": 7,
+    "social_interaction": "Medium",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_007",
+    "date": "2025-07-07",
+    "mood": "Happy",
+    "mood_score": 6,
+    "sleep_hours": 9,
+    "exercise_minutes": 13,
+    "social_interaction": "High",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_007",
+    "date": "2025-07-06",
+    "mood": "Excited",
+    "mood_score": 6,
+    "sleep_hours": 6,
+    "exercise_minutes": 10,
+    "social_interaction": "Medium",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_007",
+    "date": "2025-07-05",
+    "mood": "Neutral",
+    "mood_score": 3,
+    "sleep_hours": 7,
+    "exercise_minutes": 110,
+    "social_interaction": "Medium",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_007",
+    "date": "2025-07-04",
+    "mood": "Excited",
+    "mood_score": 1,
+    "sleep_hours": 6,
+    "exercise_minutes": 93,
+    "social_interaction": "Medium",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_007",
+    "date": "2025-07-03",
+    "mood": "Frustrated",
+    "mood_score": 3,
+    "sleep_hours": 10,
+    "exercise_minutes": 96,
+    "social_interaction": "Medium",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_007",
+    "date": "2025-07-02",
+    "mood": "Excited",
+    "mood_score": 6,
+    "sleep_hours": 10,
+    "exercise_minutes": 71,
+    "social_interaction": "Medium",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_007",
+    "date": "2025-07-01",
+    "mood": "Excited",
+    "mood_score": 3,
+    "sleep_hours": 6,
+    "exercise_minutes": 94,
+    "social_interaction": "Low",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_008",
+    "date": "2025-07-30",
+    "mood": "Sad",
+    "mood_score": 1,
+    "sleep_hours": 4,
+    "exercise_minutes": 90,
+    "social_interaction": "Medium",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_008",
+    "date": "2025-07-29",
+    "mood": "Very Sad",
+    "mood_score": 1,
+    "sleep_hours": 12,
+    "exercise_minutes": 109,
+    "social_interaction": "Low",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_008",
+    "date": "2025-07-28",
+    "mood": "Anxious",
+    "mood_score": 6,
+    "sleep_hours": 4,
+    "exercise_minutes": 10,
+    "social_interaction": "Low",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_008",
+    "date": "2025-07-27",
+    "mood": "Anxious",
+    "mood_score": 8,
+    "sleep_hours": 7,
+    "exercise_minutes": 23,
+    "social_interaction": "High",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_008",
+    "date": "2025-07-26",
+    "mood": "Anxious",
+    "mood_score": 3,
+    "sleep_hours": 12,
+    "exercise_minutes": 79,
+    "social_interaction": "High",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_008",
+    "date": "2025-07-25",
+    "mood": "Sad",
+    "mood_score": 7,
+    "sleep_hours": 7,
+    "exercise_minutes": 2,
+    "social_interaction": "Low",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_008",
+    "date": "2025-07-24",
+    "mood": "Sad",
+    "mood_score": 10,
+    "sleep_hours": 4,
+    "exercise_minutes": 37,
+    "social_interaction": "High",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_008",
+    "date": "2025-07-23",
+    "mood": "Anxious",
+    "mood_score": 7,
+    "sleep_hours": 5,
+    "exercise_minutes": 119,
+    "social_interaction": "High",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_008",
+    "date": "2025-07-22",
+    "mood": "Neutral",
+    "mood_score": 10,
+    "sleep_hours": 5,
+    "exercise_minutes": 16,
+    "social_interaction": "Low",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_008",
+    "date": "2025-07-21",
+    "mood": "Sad",
+    "mood_score": 10,
+    "sleep_hours": 8,
+    "exercise_minutes": 43,
+    "social_interaction": "Low",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_008",
+    "date": "2025-07-20",
+    "mood": "Happy",
+    "mood_score": 6,
+    "sleep_hours": 10,
+    "exercise_minutes": 80,
+    "social_interaction": "Medium",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_008",
+    "date": "2025-07-19",
+    "mood": "Sad",
+    "mood_score": 5,
+    "sleep_hours": 9,
+    "exercise_minutes": 9,
+    "social_interaction": "Medium",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_008",
+    "date": "2025-07-18",
+    "mood": "Happy",
+    "mood_score": 4,
+    "sleep_hours": 10,
+    "exercise_minutes": 89,
+    "social_interaction": "Low",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_008",
+    "date": "2025-07-17",
+    "mood": "Happy",
+    "mood_score": 10,
+    "sleep_hours": 6,
+    "exercise_minutes": 16,
+    "social_interaction": "Low",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_008",
+    "date": "2025-07-16",
+    "mood": "Excited",
+    "mood_score": 5,
+    "sleep_hours": 12,
+    "exercise_minutes": 6,
+    "social_interaction": "High",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_008",
+    "date": "2025-07-15",
+    "mood": "Very Sad",
+    "mood_score": 6,
+    "sleep_hours": 6,
+    "exercise_minutes": 4,
+    "social_interaction": "High",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_008",
+    "date": "2025-07-14",
+    "mood": "Frustrated",
+    "mood_score": 1,
+    "sleep_hours": 12,
+    "exercise_minutes": 58,
+    "social_interaction": "Medium",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_008",
+    "date": "2025-07-13",
+    "mood": "Sad",
+    "mood_score": 9,
+    "sleep_hours": 4,
+    "exercise_minutes": 82,
+    "social_interaction": "Medium",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_008",
+    "date": "2025-07-12",
+    "mood": "Very Sad",
+    "mood_score": 5,
+    "sleep_hours": 10,
+    "exercise_minutes": 12,
+    "social_interaction": "Low",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_008",
+    "date": "2025-07-11",
+    "mood": "Happy",
+    "mood_score": 8,
+    "sleep_hours": 11,
+    "exercise_minutes": 32,
+    "social_interaction": "Medium",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_008",
+    "date": "2025-07-10",
+    "mood": "Sad",
+    "mood_score": 1,
+    "sleep_hours": 11,
+    "exercise_minutes": 66,
+    "social_interaction": "Medium",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_008",
+    "date": "2025-07-09",
+    "mood": "Frustrated",
+    "mood_score": 8,
+    "sleep_hours": 7,
+    "exercise_minutes": 50,
+    "social_interaction": "Medium",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_008",
+    "date": "2025-07-08",
+    "mood": "Anxious",
+    "mood_score": 6,
+    "sleep_hours": 12,
+    "exercise_minutes": 49,
+    "social_interaction": "Low",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_008",
+    "date": "2025-07-07",
+    "mood": "Very Sad",
+    "mood_score": 5,
+    "sleep_hours": 4,
+    "exercise_minutes": 46,
+    "social_interaction": "High",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_008",
+    "date": "2025-07-06",
+    "mood": "Sad",
+    "mood_score": 4,
+    "sleep_hours": 4,
+    "exercise_minutes": 37,
+    "social_interaction": "High",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_008",
+    "date": "2025-07-05",
+    "mood": "Happy",
+    "mood_score": 9,
+    "sleep_hours": 8,
+    "exercise_minutes": 25,
+    "social_interaction": "High",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_008",
+    "date": "2025-07-04",
+    "mood": "Very Sad",
+    "mood_score": 5,
+    "sleep_hours": 8,
+    "exercise_minutes": 114,
+    "social_interaction": "Medium",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_008",
+    "date": "2025-07-03",
+    "mood": "Neutral",
+    "mood_score": 5,
+    "sleep_hours": 8,
+    "exercise_minutes": 81,
+    "social_interaction": "Low",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_008",
+    "date": "2025-07-02",
+    "mood": "Frustrated",
+    "mood_score": 5,
+    "sleep_hours": 9,
+    "exercise_minutes": 38,
+    "social_interaction": "High",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_008",
+    "date": "2025-07-01",
+    "mood": "Frustrated",
+    "mood_score": 2,
+    "sleep_hours": 5,
+    "exercise_minutes": 90,
+    "social_interaction": "Medium",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_009",
+    "date": "2025-07-30",
+    "mood": "Excited",
+    "mood_score": 1,
+    "sleep_hours": 5,
+    "exercise_minutes": 112,
+    "social_interaction": "High",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_009",
+    "date": "2025-07-29",
+    "mood": "Sad",
+    "mood_score": 1,
+    "sleep_hours": 11,
+    "exercise_minutes": 75,
+    "social_interaction": "Low",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_009",
+    "date": "2025-07-28",
+    "mood": "Very Sad",
+    "mood_score": 8,
+    "sleep_hours": 12,
+    "exercise_minutes": 105,
+    "social_interaction": "Low",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_009",
+    "date": "2025-07-27",
+    "mood": "Excited",
+    "mood_score": 7,
+    "sleep_hours": 7,
+    "exercise_minutes": 6,
+    "social_interaction": "Medium",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_009",
+    "date": "2025-07-26",
+    "mood": "Sad",
+    "mood_score": 2,
+    "sleep_hours": 7,
+    "exercise_minutes": 66,
+    "social_interaction": "High",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_009",
+    "date": "2025-07-25",
+    "mood": "Anxious",
+    "mood_score": 9,
+    "sleep_hours": 4,
+    "exercise_minutes": 61,
+    "social_interaction": "High",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_009",
+    "date": "2025-07-24",
+    "mood": "Anxious",
+    "mood_score": 1,
+    "sleep_hours": 11,
+    "exercise_minutes": 42,
+    "social_interaction": "Low",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_009",
+    "date": "2025-07-23",
+    "mood": "Frustrated",
+    "mood_score": 10,
+    "sleep_hours": 6,
+    "exercise_minutes": 47,
+    "social_interaction": "Low",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_009",
+    "date": "2025-07-22",
+    "mood": "Happy",
+    "mood_score": 6,
+    "sleep_hours": 4,
+    "exercise_minutes": 69,
+    "social_interaction": "High",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_009",
+    "date": "2025-07-21",
+    "mood": "Happy",
+    "mood_score": 5,
+    "sleep_hours": 4,
+    "exercise_minutes": 78,
+    "social_interaction": "High",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_009",
+    "date": "2025-07-20",
+    "mood": "Sad",
+    "mood_score": 6,
+    "sleep_hours": 4,
+    "exercise_minutes": 60,
+    "social_interaction": "High",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_009",
+    "date": "2025-07-19",
+    "mood": "Happy",
+    "mood_score": 5,
+    "sleep_hours": 12,
+    "exercise_minutes": 7,
+    "social_interaction": "Low",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_009",
+    "date": "2025-07-18",
+    "mood": "Sad",
+    "mood_score": 1,
+    "sleep_hours": 11,
+    "exercise_minutes": 64,
+    "social_interaction": "High",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_009",
+    "date": "2025-07-17",
+    "mood": "Very Happy",
+    "mood_score": 1,
+    "sleep_hours": 7,
+    "exercise_minutes": 118,
+    "social_interaction": "Low",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_009",
+    "date": "2025-07-16",
+    "mood": "Excited",
+    "mood_score": 10,
+    "sleep_hours": 7,
+    "exercise_minutes": 51,
+    "social_interaction": "Medium",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_009",
+    "date": "2025-07-15",
+    "mood": "Excited",
+    "mood_score": 5,
+    "sleep_hours": 10,
+    "exercise_minutes": 92,
+    "social_interaction": "High",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_009",
+    "date": "2025-07-14",
+    "mood": "Anxious",
+    "mood_score": 6,
+    "sleep_hours": 5,
+    "exercise_minutes": 91,
+    "social_interaction": "Low",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_009",
+    "date": "2025-07-13",
+    "mood": "Happy",
+    "mood_score": 8,
+    "sleep_hours": 4,
+    "exercise_minutes": 65,
+    "social_interaction": "High",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_009",
+    "date": "2025-07-12",
+    "mood": "Very Happy",
+    "mood_score": 3,
+    "sleep_hours": 10,
+    "exercise_minutes": 17,
+    "social_interaction": "High",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_009",
+    "date": "2025-07-11",
+    "mood": "Neutral",
+    "mood_score": 1,
+    "sleep_hours": 5,
+    "exercise_minutes": 86,
+    "social_interaction": "Medium",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_009",
+    "date": "2025-07-10",
+    "mood": "Neutral",
+    "mood_score": 8,
+    "sleep_hours": 4,
+    "exercise_minutes": 106,
+    "social_interaction": "Medium",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_009",
+    "date": "2025-07-09",
+    "mood": "Excited",
+    "mood_score": 4,
+    "sleep_hours": 5,
+    "exercise_minutes": 111,
+    "social_interaction": "Low",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_009",
+    "date": "2025-07-08",
+    "mood": "Frustrated",
+    "mood_score": 7,
+    "sleep_hours": 9,
+    "exercise_minutes": 114,
+    "social_interaction": "High",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_009",
+    "date": "2025-07-07",
+    "mood": "Anxious",
+    "mood_score": 8,
+    "sleep_hours": 12,
+    "exercise_minutes": 62,
+    "social_interaction": "Low",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_009",
+    "date": "2025-07-06",
+    "mood": "Frustrated",
+    "mood_score": 2,
+    "sleep_hours": 12,
+    "exercise_minutes": 2,
+    "social_interaction": "Medium",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_009",
+    "date": "2025-07-05",
+    "mood": "Neutral",
+    "mood_score": 7,
+    "sleep_hours": 4,
+    "exercise_minutes": 57,
+    "social_interaction": "High",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_009",
+    "date": "2025-07-04",
+    "mood": "Frustrated",
+    "mood_score": 6,
+    "sleep_hours": 7,
+    "exercise_minutes": 83,
+    "social_interaction": "Low",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_009",
+    "date": "2025-07-03",
+    "mood": "Frustrated",
+    "mood_score": 3,
+    "sleep_hours": 9,
+    "exercise_minutes": 46,
+    "social_interaction": "Low",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_009",
+    "date": "2025-07-02",
+    "mood": "Excited",
+    "mood_score": 4,
+    "sleep_hours": 5,
+    "exercise_minutes": 105,
+    "social_interaction": "Low",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_009",
+    "date": "2025-07-01",
+    "mood": "Anxious",
+    "mood_score": 2,
+    "sleep_hours": 6,
+    "exercise_minutes": 19,
+    "social_interaction": "Low",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_010",
+    "date": "2025-07-30",
+    "mood": "Anxious",
+    "mood_score": 3,
+    "sleep_hours": 12,
+    "exercise_minutes": 39,
+    "social_interaction": "Low",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_010",
+    "date": "2025-07-29",
+    "mood": "Frustrated",
+    "mood_score": 10,
+    "sleep_hours": 4,
+    "exercise_minutes": 100,
+    "social_interaction": "High",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_010",
+    "date": "2025-07-28",
+    "mood": "Happy",
+    "mood_score": 6,
+    "sleep_hours": 8,
+    "exercise_minutes": 111,
+    "social_interaction": "High",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_010",
+    "date": "2025-07-27",
+    "mood": "Very Sad",
+    "mood_score": 3,
+    "sleep_hours": 7,
+    "exercise_minutes": 22,
+    "social_interaction": "Medium",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_010",
+    "date": "2025-07-26",
+    "mood": "Sad",
+    "mood_score": 9,
+    "sleep_hours": 5,
+    "exercise_minutes": 27,
+    "social_interaction": "Medium",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_010",
+    "date": "2025-07-25",
+    "mood": "Happy",
+    "mood_score": 1,
+    "sleep_hours": 7,
+    "exercise_minutes": 14,
+    "social_interaction": "Low",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_010",
+    "date": "2025-07-24",
+    "mood": "Excited",
+    "mood_score": 2,
+    "sleep_hours": 6,
+    "exercise_minutes": 109,
+    "social_interaction": "Medium",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_010",
+    "date": "2025-07-23",
+    "mood": "Very Happy",
+    "mood_score": 2,
+    "sleep_hours": 11,
+    "exercise_minutes": 12,
+    "social_interaction": "Low",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_010",
+    "date": "2025-07-22",
+    "mood": "Frustrated",
+    "mood_score": 2,
+    "sleep_hours": 9,
+    "exercise_minutes": 58,
+    "social_interaction": "Low",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_010",
+    "date": "2025-07-21",
+    "mood": "Sad",
+    "mood_score": 5,
+    "sleep_hours": 5,
+    "exercise_minutes": 16,
+    "social_interaction": "Low",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_010",
+    "date": "2025-07-20",
+    "mood": "Very Sad",
+    "mood_score": 10,
+    "sleep_hours": 9,
+    "exercise_minutes": 38,
+    "social_interaction": "Low",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_010",
+    "date": "2025-07-19",
+    "mood": "Anxious",
+    "mood_score": 9,
+    "sleep_hours": 9,
+    "exercise_minutes": 106,
+    "social_interaction": "Low",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_010",
+    "date": "2025-07-18",
+    "mood": "Very Sad",
+    "mood_score": 9,
+    "sleep_hours": 9,
+    "exercise_minutes": 51,
+    "social_interaction": "High",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_010",
+    "date": "2025-07-17",
+    "mood": "Excited",
+    "mood_score": 8,
+    "sleep_hours": 8,
+    "exercise_minutes": 43,
+    "social_interaction": "High",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_010",
+    "date": "2025-07-16",
+    "mood": "Anxious",
+    "mood_score": 5,
+    "sleep_hours": 5,
+    "exercise_minutes": 15,
+    "social_interaction": "High",
+    "stress_level": 2
+  },
+  {
+    "user_id": "user_010",
+    "date": "2025-07-15",
+    "mood": "Happy",
+    "mood_score": 6,
+    "sleep_hours": 11,
+    "exercise_minutes": 12,
+    "social_interaction": "Low",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_010",
+    "date": "2025-07-14",
+    "mood": "Very Happy",
+    "mood_score": 8,
+    "sleep_hours": 11,
+    "exercise_minutes": 87,
+    "social_interaction": "High",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_010",
+    "date": "2025-07-13",
+    "mood": "Anxious",
+    "mood_score": 10,
+    "sleep_hours": 10,
+    "exercise_minutes": 23,
+    "social_interaction": "Low",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_010",
+    "date": "2025-07-12",
+    "mood": "Neutral",
+    "mood_score": 5,
+    "sleep_hours": 9,
+    "exercise_minutes": 77,
+    "social_interaction": "Medium",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_010",
+    "date": "2025-07-11",
+    "mood": "Anxious",
+    "mood_score": 1,
+    "sleep_hours": 5,
+    "exercise_minutes": 14,
+    "social_interaction": "Medium",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_010",
+    "date": "2025-07-10",
+    "mood": "Neutral",
+    "mood_score": 5,
+    "sleep_hours": 12,
+    "exercise_minutes": 21,
+    "social_interaction": "Medium",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_010",
+    "date": "2025-07-09",
+    "mood": "Very Sad",
+    "mood_score": 1,
+    "sleep_hours": 5,
+    "exercise_minutes": 110,
+    "social_interaction": "High",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_010",
+    "date": "2025-07-08",
+    "mood": "Neutral",
+    "mood_score": 6,
+    "sleep_hours": 9,
+    "exercise_minutes": 56,
+    "social_interaction": "Low",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_010",
+    "date": "2025-07-07",
+    "mood": "Very Happy",
+    "mood_score": 2,
+    "sleep_hours": 7,
+    "exercise_minutes": 115,
+    "social_interaction": "Low",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_010",
+    "date": "2025-07-06",
+    "mood": "Very Happy",
+    "mood_score": 3,
+    "sleep_hours": 5,
+    "exercise_minutes": 118,
+    "social_interaction": "High",
+    "stress_level": 4
+  },
+  {
+    "user_id": "user_010",
+    "date": "2025-07-05",
+    "mood": "Frustrated",
+    "mood_score": 1,
+    "sleep_hours": 12,
+    "exercise_minutes": 118,
+    "social_interaction": "Medium",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_010",
+    "date": "2025-07-04",
+    "mood": "Very Happy",
+    "mood_score": 4,
+    "sleep_hours": 10,
+    "exercise_minutes": 40,
+    "social_interaction": "Medium",
+    "stress_level": 1
+  },
+  {
+    "user_id": "user_010",
+    "date": "2025-07-03",
+    "mood": "Very Sad",
+    "mood_score": 1,
+    "sleep_hours": 7,
+    "exercise_minutes": 36,
+    "social_interaction": "Low",
+    "stress_level": 3
+  },
+  {
+    "user_id": "user_010",
+    "date": "2025-07-02",
+    "mood": "Excited",
+    "mood_score": 8,
+    "sleep_hours": 5,
+    "exercise_minutes": 94,
+    "social_interaction": "Medium",
+    "stress_level": 5
+  },
+  {
+    "user_id": "user_010",
+    "date": "2025-07-01",
+    "mood": "Neutral",
+    "mood_score": 4,
+    "sleep_hours": 6,
+    "exercise_minutes": 28,
+    "social_interaction": "High",
+    "stress_level": 3
+  }
+]

@@ -1,0 +1,536 @@
+s<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MindGuard - Privacy-First Mental Health for Teens</title>
+    <link rel="stylesheet" href="style.css">
+    <meta name="description" content="Privacy-preserving mental health tracking and early warning system for teenagers">
+</head>
+<body>
+    <!-- Welcome/Onboarding Page -->
+    <div id="welcome-page" class="page active">
+        <div class="container">
+            <div class="welcome-hero">
+                <div class="hero-content">
+                    <h1>Welcome to MindGuard 🌟</h1>
+                    <p class="hero-subtitle">Your private, safe space for mental wellness</p>
+                    <div class="privacy-badge">
+                        <span class="badge-icon">🔒</span>
+                        <span>100% Private & Secure</span>
+                    </div>
+                </div>
+                <div class="feature-highlights">
+                    <div class="feature-card">
+                        <div class="feature-icon">📊</div>
+                        <h3>Track Your Mood</h3>
+                        <p>Simple daily check-ins with colorful mood wheels</p>
+                    </div>
+                    <div class="feature-card">
+                        <div class="feature-icon">🛡️</div>
+                        <h3>Early Warnings</h3>
+                        <p>Gentle alerts when patterns suggest you need support</p>
+                    </div>
+                    <div class="feature-card">
+                        <div class="feature-icon">🏆</div>
+                        <h3>Earn Rewards</h3>
+                        <p>Badges and streaks for taking care of yourself</p>
+                    </div>
+                    <div class="feature-card">
+                        <div class="feature-icon">📞</div>
+                        <h3>Get Help</h3>
+                        <p>Quick access to crisis resources and support</p>
+                    </div>
+                </div>
+                <div class="onboarding-actions">
+                    <button class="btn btn--primary btn--lg" onclick="startOnboarding()">Get Started</button>
+                    <button class="btn btn--outline btn--lg" onclick="showPage('privacy-page')">Privacy First</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Onboarding Flow -->
+    <div id="onboarding-page" class="page">
+        <div class="container">
+            <div class="onboarding-content">
+                <div class="progress-bar">
+                    <div class="progress-fill" id="onboarding-progress"></div>
+                </div>
+                <div class="onboarding-step active" id="step-1">
+                    <h2>🔒 Your Privacy Matters</h2>
+                    <p>MindGuard uses advanced privacy protection:</p>
+                    <ul class="privacy-features">
+                        <li>✅ Differential privacy keeps your data anonymous</li>
+                        <li>✅ No personal information is ever shared</li>
+                        <li>✅ All analysis happens securely on your device</li>
+                        <li>✅ You control what data is collected</li>
+                    </ul>
+                    <button class="btn btn--primary" onclick="nextOnboardingStep()">Continue</button>
+                </div>
+                <div class="onboarding-step" id="step-2">
+                    <h2>🎯 Age Verification</h2>
+                    <p>Please confirm your age to ensure appropriate features:</p>
+                    <div class="age-selection">
+                        <button class="age-btn" data-age="13-15">13-15 years</button>
+                        <button class="age-btn" data-age="16-17">16-17 years</button>
+                        <button class="age-btn" data-age="18+">18+ years</button>
+                    </div>
+                    <div class="parental-consent" id="parental-consent" style="display: none;">
+                        <p>⚠️ Parental consent required for users under 16</p>
+                        <input type="email" class="form-control" placeholder="Parent/Guardian email" id="parent-email">
+                    </div>
+                    <button class="btn btn--primary" onclick="nextOnboardingStep()" id="continue-age" disabled>Continue</button>
+                </div>
+                <div class="onboarding-step" id="step-3">
+                    <h2>♿ Accessibility Preferences</h2>
+                    <div class="accessibility-options">
+                        <label class="checkbox-label">
+                            <input type="checkbox" id="high-contrast"> High contrast mode
+                        </label>
+                        <label class="checkbox-label">
+                            <input type="checkbox" id="large-text"> Large text
+                        </label>
+                        <label class="checkbox-label">
+                            <input type="checkbox" id="screen-reader"> Screen reader optimization
+                        </label>
+                        <label class="checkbox-label">
+                            <input type="checkbox" id="reduced-motion"> Reduced motion
+                        </label>
+                    </div>
+                    <button class="btn btn--primary" onclick="completeOnboarding()">Start Using MindGuard</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Main Dashboard -->
+    <div id="dashboard-page" class="page">
+        <div class="container">
+            <header class="dashboard-header">
+                <div class="user-greeting">
+                    <h1>Hey there! 👋</h1>
+                    <p>How are you feeling today?</p>
+                </div>
+                <div class="theme-toggle">
+                    <button id="theme-toggle" class="btn btn--outline btn--sm" onclick="toggleTheme()">🌙</button>
+                </div>
+            </header>
+
+            <div class="dashboard-grid">
+                <div class="dashboard-card streak-card">
+                    <h3>🔥 Current Streak</h3>
+                    <div class="streak-display">
+                        <span class="streak-number" id="streak-days">7</span>
+                        <span class="streak-label">days</span>
+                    </div>
+                    <p>Keep it up! You're doing great!</p>
+                </div>
+
+                <div class="dashboard-card mood-summary">
+                    <h3>📊 Mood Overview</h3>
+                    <div class="mood-average">
+                        <div class="mood-emoji" id="avg-mood-emoji">😊</div>
+                        <div class="mood-text">
+                            <span id="avg-mood-text">Happy</span>
+                            <small>Average this week</small>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="dashboard-card points-card">
+                    <h3>⭐ Total Points</h3>
+                    <div class="points-display">
+                        <span class="points-number" id="total-points">285</span>
+                        <div class="level-info">
+                            <span>Level <span id="user-level">3</span></span>
+                            <div class="level-progress">
+                                <div class="level-progress-fill" style="width: 60%"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="dashboard-card badges-preview">
+                    <h3>🏆 Recent Badges</h3>
+                    <div class="badge-list" id="recent-badges">
+                        <div class="badge-item">🏆 Daily Check-in Champion</div>
+                        <div class="badge-item">⭐ Self-Care Star</div>
+                        <div class="badge-item">📝 Journal Journey</div>
+                    </div>
+                </div>
+
+                <div class="dashboard-card quick-actions">
+                    <h3>Quick Actions</h3>
+                    <div class="action-buttons">
+                        <button class="action-btn" onclick="showPage('mood-log-page')">
+                            <span class="action-icon">📝</span>
+                            Log Mood
+                        </button>
+                        <button class="action-btn" onclick="showPage('resources-page')">
+                            <span class="action-icon">📞</span>
+                            Get Help
+                        </button>
+                    </div>
+                </div>
+
+                <div class="dashboard-card chart-preview">
+                    <h3>📈 Your Progress</h3>
+                    <img src="https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/8d2d7390f7aab6634eca3aa7b28160f4/1c2e9469-019d-410e-852b-844d488ef565/4dfb3f25.png" alt="Mood tracking trends" class="chart-image">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Mood Logging Page -->
+    <div id="mood-log-page" class="page">
+        <div class="container">
+            <div class="page-header">
+                <button class="btn btn--outline btn--sm" onclick="showPage('dashboard-page')">← Back</button>
+                <h2>How are you feeling?</h2>
+            </div>
+
+            <div class="mood-wheel-container">
+                <h3>Select your mood</h3>
+                <div class="mood-wheel" id="mood-wheel">
+                    <!-- Mood options will be populated by JavaScript -->
+                </div>
+                <div class="selected-mood" id="selected-mood" style="display: none;">
+                    <span id="selected-mood-emoji"></span>
+                    <span id="selected-mood-text"></span>
+                </div>
+            </div>
+
+            <div class="journal-section">
+                <h3>How was your day? (Optional)</h3>
+                <textarea class="form-control journal-input" id="journal-entry" placeholder="Share your thoughts, feelings, or anything on your mind..." maxlength="500"></textarea>
+                <div class="character-count">
+                    <span id="char-count">0</span>/500 characters
+                </div>
+            </div>
+
+            <div class="self-care-section">
+                <h3>Self-Care Check</h3>
+                <div class="self-care-grid">
+                    <div class="self-care-item">
+                        <label>💤 Hours of Sleep</label>
+                        <input type="number" class="form-control" id="sleep-hours" min="0" max="24" step="0.5">
+                    </div>
+                    <div class="self-care-item">
+                        <label>🏃 Exercise (minutes)</label>
+                        <input type="number" class="form-control" id="exercise-minutes" min="0" max="300">
+                    </div>
+                    <div class="self-care-item">
+                        <label>👥 Social Interaction</label>
+                        <select class="form-control" id="social-level">
+                            <option value="">Select level</option>
+                            <option value="none">None</option>
+                            <option value="low">A little</option>
+                            <option value="moderate">Moderate</option>
+                            <option value="high">Lots</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+
+            <button class="btn btn--primary btn--full-width btn--lg" onclick="submitMoodLog()" id="submit-mood">
+                Submit Today's Log ✨
+            </button>
+        </div>
+    </div>
+
+    <!-- Resources Page -->
+    <div id="resources-page" class="page">
+        <div class="container">
+            <div class="page-header">
+                <button class="btn btn--outline btn--sm" onclick="showPage('dashboard-page')">← Back</button>
+                <h2>Resources & Support</h2>
+            </div>
+
+            <div class="crisis-alert">
+                <h3>🚨 Need Immediate Help?</h3>
+                <p>If you're in crisis or having thoughts of self-harm, please reach out immediately:</p>
+            </div>
+
+            <div class="resources-grid">
+                <div class="resource-section crisis-resources">
+                    <h3>Crisis Support</h3>
+                    <div class="resource-card emergency">
+                        <div class="resource-icon">📞</div>
+                        <div class="resource-info">
+                            <h4>988 Suicide & Crisis Lifeline</h4>
+                            <p class="resource-contact">Call or text 988</p>
+                            <span class="availability">24/7 Available</span>
+                        </div>
+                    </div>
+                    <div class="resource-card emergency">
+                        <div class="resource-icon">💬</div>
+                        <div class="resource-info">
+                            <h4>Crisis Text Line</h4>
+                            <p class="resource-contact">Text HOME to 741741</p>
+                            <span class="availability">24/7 Available</span>
+                        </div>
+                    </div>
+                    <div class="resource-card">
+                        <div class="resource-icon">👥</div>
+                        <div class="resource-info">
+                            <h4>Teen Crisis Textline</h4>
+                            <p class="resource-contact">Text 833-TXT-TEEN</p>
+                            <span class="availability">24/7 Available</span>
+                        </div>
+                    </div>
+                    <div class="resource-card">
+                        <div class="resource-icon">🌟</div>
+                        <div class="resource-info">
+                            <h4>YouthLine</h4>
+                            <p class="resource-contact">Call 877-968-8491</p>
+                            <span class="availability">4PM-10PM Pacific</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="resource-section coping-strategies">
+                    <h3>Coping Strategies</h3>
+                    <div class="coping-grid">
+                        <div class="coping-card" onclick="showCopingDetails('breathing')">
+                            <div class="coping-icon">🫁</div>
+                            <h4>Deep Breathing</h4>
+                            <p>4-7-8 breathing technique</p>
+                            <span class="duration">2-5 minutes</span>
+                        </div>
+                        <div class="coping-card" onclick="showCopingDetails('muscle')">
+                            <div class="coping-icon">💪</div>
+                            <h4>Muscle Relaxation</h4>
+                            <p>Tense and release technique</p>
+                            <span class="duration">10-15 minutes</span>
+                        </div>
+                        <div class="coping-card" onclick="showCopingDetails('walking')">
+                            <div class="coping-icon">🚶</div>
+                            <h4>Mindful Walking</h4>
+                            <p>Focus on each step</p>
+                            <span class="duration">5-20 minutes</span>
+                        </div>
+                        <div class="coping-card" onclick="showCopingDetails('gratitude')">
+                            <div class="coping-icon">📝</div>
+                            <h4>Gratitude Journal</h4>
+                            <p>Write 3 grateful thoughts</p>
+                            <span class="duration">5 minutes</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Privacy Page -->
+    <div id="privacy-page" class="page">
+        <div class="container">
+            <div class="page-header">
+                <button class="btn btn--outline btn--sm" onclick="showPage('dashboard-page')">← Back</button>
+                <h2>Privacy & Data Protection</h2>
+            </div>
+
+            <div class="privacy-content">
+                <div class="privacy-hero">
+                    <div class="privacy-icon">🛡️</div>
+                    <h3>Your Privacy is Our Priority</h3>
+                    <p>MindGuard uses cutting-edge privacy technology to keep your mental health data completely secure and anonymous.</p>
+                </div>
+
+                <div class="privacy-sections">
+                    <div class="privacy-section">
+                        <h4>🔒 Differential Privacy</h4>
+                        <p>Your individual data is mathematically protected by adding carefully calibrated noise, making it impossible to identify specific users while preserving overall trends for research.</p>
+                    </div>
+
+                    <div class="privacy-section">
+                        <h4>🏠 Federated Learning</h4>
+                        <p>Machine learning happens on your device, not our servers. Only aggregated, anonymous insights are shared to improve the early warning system.</p>
+                    </div>
+
+                    <div class="privacy-section">
+                        <h4>🚫 No Personal Identifiers</h4>
+                        <p>We don't collect names, addresses, phone numbers, or any information that could identify you. Your data is linked only to a random, anonymous ID.</p>
+                    </div>
+
+                    <div class="privacy-section">
+                        <h4>📱 Local Processing</h4>
+                        <p>Mood analysis and early warnings are generated on your device. Your journal entries and personal thoughts never leave your phone.</p>
+                    </div>
+
+                    <div class="privacy-section">
+                        <h4>👨‍👩‍👧‍👦 Parental Dashboard</h4>
+                        <p>If you opt in, parents see only high-level trends (like "mood has been stable this week"). They never see journal entries or specific mood logs.</p>
+                    </div>
+
+                    <div class="privacy-section">
+                        <h4>⚖️ COPPA Compliance</h4>
+                        <p>We fully comply with children's privacy laws. Users under 16 need parental consent, and we collect minimal data necessary for the app to function.</p>
+                    </div>
+                </div>
+
+                <div class="privacy-controls">
+                    <h4>Your Data Controls</h4>
+                    <div class="control-item">
+                        <label class="checkbox-label">
+                            <input type="checkbox" id="data-sharing" checked> Allow anonymous trend sharing for research
+                        </label>
+                    </div>
+                    <div class="control-item">
+                        <label class="checkbox-label">
+                            <input type="checkbox" id="parental-opt-in"> Enable parental dashboard
+                        </label>
+                    </div>
+                    <div class="control-item">
+                        <label class="checkbox-label">
+                            <input type="checkbox" id="analytics-opt-in" checked> Help improve the app with usage analytics
+                        </label>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Parental Dashboard -->
+    <div id="parental-page" class="page">
+        <div class="container">
+            <div class="page-header">
+                <button class="btn btn--outline btn--sm" onclick="showPage('dashboard-page')">← Back</button>
+                <h2>Parental Dashboard</h2>
+            </div>
+
+            <div class="parental-notice">
+                <p>📊 This dashboard shows only aggregated, anonymous trends. No personal journal entries or specific mood details are visible to protect your teen's privacy.</p>
+            </div>
+
+            <div class="parental-grid">
+                <div class="dashboard-card">
+                    <h3>Overall Wellness Trend</h3>
+                    <div class="wellness-indicator positive">
+                        <span class="indicator-emoji">📈</span>
+                        <span>Stable & Positive</span>
+                    </div>
+                    <p>Your teen has been consistently engaging with their mental health tracking.</p>
+                </div>
+
+                <div class="dashboard-card">
+                    <h3>App Engagement</h3>
+                    <img src="https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/8d2d7390f7aab6634eca3aa7b28160f4/841545e0-07a7-4746-be9a-157eb13a1976/d958c85d.png" alt="Teen engagement in mental health activities" class="chart-image">
+                </div>
+
+                <div class="dashboard-card">
+                    <h3>Self-Care Activities</h3>
+                    <div class="activity-stats">
+                        <div class="stat-item">
+                            <span class="stat-icon">💤</span>
+                            <span>Sleep: Regular</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-icon">🏃</span>
+                            <span>Exercise: Active</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-icon">👥</span>
+                            <span>Social: Engaged</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="dashboard-card">
+                    <h3>Support Recommendations</h3>
+                    <div class="recommendations">
+                        <p>✅ Continue encouraging daily check-ins</p>
+                        <p>✅ Praise their consistent self-care efforts</p>
+                        <p>💡 Consider family activities to boost social wellness</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Early Warning Modal -->
+    <div id="warning-modal" class="modal hidden">
+        <div class="modal-overlay" onclick="closeWarningModal()"></div>
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3>💙 We've Noticed Something</h3>
+                <button class="modal-close" onclick="closeWarningModal()">×</button>
+            </div>
+            <div class="modal-body">
+                <div class="warning-content">
+                    <div class="warning-explanation">
+                        <h4>Pattern Detected:</h4>
+                        <p id="warning-pattern">Your mood has been lower than usual for the past 3 days. This might be due to stress, changes in routine, or other factors.</p>
+                    </div>
+                    <div class="warning-suggestions">
+                        <h4>Gentle Suggestions:</h4>
+                        <ul id="warning-suggestions">
+                            <li>Try a 5-minute breathing exercise</li>
+                            <li>Reach out to a trusted friend or family member</li>
+                            <li>Consider talking to a counselor</li>
+                        </ul>
+                    </div>
+                    <div class="warning-resources">
+                        <h4>Need Support Right Now?</h4>
+                        <button class="btn btn--primary" onclick="showPage('resources-page'); closeWarningModal();">
+                            Get Help Resources
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Coping Strategy Modal -->
+    <div id="coping-modal" class="modal hidden">
+        <div class="modal-overlay" onclick="closeCopingModal()"></div>
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 id="coping-title">Deep Breathing Exercise</h3>
+                <button class="modal-close" onclick="closeCopingModal()">×</button>
+            </div>
+            <div class="modal-body">
+                <div id="coping-content">
+                    <!-- Content will be populated by JavaScript -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Success Modal -->
+    <div id="success-modal" class="modal hidden">
+        <div class="modal-overlay" onclick="closeSuccessModal()"></div>
+        <div class="modal-content success-content">
+            <div class="success-animation">
+                <div class="success-emoji">🎉</div>
+                <h3>Great Job!</h3>
+                <p id="success-message">You've earned 15 points for logging your mood today!</p>
+                <div class="earned-badges" id="earned-badges"></div>
+                <button class="btn btn--primary" onclick="closeSuccessModal()">Continue</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bottom Navigation -->
+    <nav class="bottom-nav">
+        <button class="nav-item" onclick="showPage('dashboard-page')" data-page="dashboard-page">
+            <span class="nav-icon">🏠</span>
+            <span class="nav-label">Home</span>
+        </button>
+        <button class="nav-item" onclick="showPage('mood-log-page')" data-page="mood-log-page">
+            <span class="nav-icon">📝</span>
+            <span class="nav-label">Log Mood</span>
+        </button>
+        <button class="nav-item" onclick="showPage('resources-page')" data-page="resources-page">
+            <span class="nav-icon">📞</span>
+            <span class="nav-label">Resources</span>
+        </button>
+        <button class="nav-item" onclick="showPage('privacy-page')" data-page="privacy-page">
+            <span class="nav-icon">🛡️</span>
+            <span class="nav-label">Privacy</span>
+        </button>
+    </nav>
+
+    <script src="app.js"></script>
+</body>
+</html>

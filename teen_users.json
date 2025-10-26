@@ -1,0 +1,452 @@
+[
+  {
+    "user_id": "user_001",
+    "age_group": "17-18",
+    "join_date": "2024-12-16",
+    "privacy_level": "high",
+    "parental_consent": false,
+    "preferred_language": "Spanish",
+    "accessibility_needs": "large_text"
+  },
+  {
+    "user_id": "user_002",
+    "age_group": "15-16",
+    "join_date": "2025-06-27",
+    "privacy_level": "high",
+    "parental_consent": false,
+    "preferred_language": "Spanish",
+    "accessibility_needs": null
+  },
+  {
+    "user_id": "user_003",
+    "age_group": "13-14",
+    "join_date": "2024-08-27",
+    "privacy_level": "low",
+    "parental_consent": false,
+    "preferred_language": "English",
+    "accessibility_needs": null
+  },
+  {
+    "user_id": "user_004",
+    "age_group": "13-14",
+    "join_date": "2025-02-07",
+    "privacy_level": "high",
+    "parental_consent": false,
+    "preferred_language": "Spanish",
+    "accessibility_needs": "large_text"
+  },
+  {
+    "user_id": "user_005",
+    "age_group": "13-14",
+    "join_date": "2025-06-11",
+    "privacy_level": "low",
+    "parental_consent": false,
+    "preferred_language": "Spanish",
+    "accessibility_needs": "high_contrast"
+  },
+  {
+    "user_id": "user_006",
+    "age_group": "13-14",
+    "join_date": "2024-12-31",
+    "privacy_level": "medium",
+    "parental_consent": false,
+    "preferred_language": "Spanish",
+    "accessibility_needs": "high_contrast"
+  },
+  {
+    "user_id": "user_007",
+    "age_group": "13-14",
+    "join_date": "2024-09-09",
+    "privacy_level": "low",
+    "parental_consent": true,
+    "preferred_language": "Spanish",
+    "accessibility_needs": "screen_reader"
+  },
+  {
+    "user_id": "user_008",
+    "age_group": "13-14",
+    "join_date": "2025-05-18",
+    "privacy_level": "low",
+    "parental_consent": false,
+    "preferred_language": "Spanish",
+    "accessibility_needs": "large_text"
+  },
+  {
+    "user_id": "user_009",
+    "age_group": "15-16",
+    "join_date": "2025-07-13",
+    "privacy_level": "medium",
+    "parental_consent": false,
+    "preferred_language": "French",
+    "accessibility_needs": "screen_reader"
+  },
+  {
+    "user_id": "user_010",
+    "age_group": "14-15",
+    "join_date": "2025-07-21",
+    "privacy_level": "high",
+    "parental_consent": false,
+    "preferred_language": "English",
+    "accessibility_needs": "high_contrast"
+  },
+  {
+    "user_id": "user_011",
+    "age_group": "17-18",
+    "join_date": "2024-10-20",
+    "privacy_level": "high",
+    "parental_consent": false,
+    "preferred_language": "English",
+    "accessibility_needs": "screen_reader"
+  },
+  {
+    "user_id": "user_012",
+    "age_group": "16-17",
+    "join_date": "2025-03-15",
+    "privacy_level": "low",
+    "parental_consent": false,
+    "preferred_language": "Spanish",
+    "accessibility_needs": "high_contrast"
+  },
+  {
+    "user_id": "user_013",
+    "age_group": "16-17",
+    "join_date": "2024-12-20",
+    "privacy_level": "low",
+    "parental_consent": false,
+    "preferred_language": "French",
+    "accessibility_needs": "screen_reader"
+  },
+  {
+    "user_id": "user_014",
+    "age_group": "17-18",
+    "join_date": "2024-10-12",
+    "privacy_level": "high",
+    "parental_consent": false,
+    "preferred_language": "Spanish",
+    "accessibility_needs": null
+  },
+  {
+    "user_id": "user_015",
+    "age_group": "15-16",
+    "join_date": "2025-02-03",
+    "privacy_level": "medium",
+    "parental_consent": false,
+    "preferred_language": "French",
+    "accessibility_needs": "large_text"
+  },
+  {
+    "user_id": "user_016",
+    "age_group": "16-17",
+    "join_date": "2025-04-09",
+    "privacy_level": "high",
+    "parental_consent": false,
+    "preferred_language": "English",
+    "accessibility_needs": null
+  },
+  {
+    "user_id": "user_017",
+    "age_group": "16-17",
+    "join_date": "2025-03-19",
+    "privacy_level": "low",
+    "parental_consent": false,
+    "preferred_language": "Spanish",
+    "accessibility_needs": "screen_reader"
+  },
+  {
+    "user_id": "user_018",
+    "age_group": "16-17",
+    "join_date": "2025-04-20",
+    "privacy_level": "high",
+    "parental_consent": false,
+    "preferred_language": "English",
+    "accessibility_needs": "screen_reader"
+  },
+  {
+    "user_id": "user_019",
+    "age_group": "17-18",
+    "join_date": "2024-11-22",
+    "privacy_level": "medium",
+    "parental_consent": false,
+    "preferred_language": "French",
+    "accessibility_needs": "high_contrast"
+  },
+  {
+    "user_id": "user_020",
+    "age_group": "14-15",
+    "join_date": "2025-02-06",
+    "privacy_level": "low",
+    "parental_consent": true,
+    "preferred_language": "English",
+    "accessibility_needs": "screen_reader"
+  },
+  {
+    "user_id": "user_021",
+    "age_group": "13-14",
+    "join_date": "2025-01-30",
+    "privacy_level": "high",
+    "parental_consent": false,
+    "preferred_language": "Spanish",
+    "accessibility_needs": "screen_reader"
+  },
+  {
+    "user_id": "user_022",
+    "age_group": "15-16",
+    "join_date": "2025-07-21",
+    "privacy_level": "low",
+    "parental_consent": true,
+    "preferred_language": "Spanish",
+    "accessibility_needs": "high_contrast"
+  },
+  {
+    "user_id": "user_023",
+    "age_group": "17-18",
+    "join_date": "2025-02-01",
+    "privacy_level": "high",
+    "parental_consent": false,
+    "preferred_language": "French",
+    "accessibility_needs": null
+  },
+  {
+    "user_id": "user_024",
+    "age_group": "13-14",
+    "join_date": "2025-06-06",
+    "privacy_level": "medium",
+    "parental_consent": true,
+    "preferred_language": "French",
+    "accessibility_needs": "large_text"
+  },
+  {
+    "user_id": "user_025",
+    "age_group": "13-14",
+    "join_date": "2024-10-17",
+    "privacy_level": "medium",
+    "parental_consent": true,
+    "preferred_language": "Spanish",
+    "accessibility_needs": "large_text"
+  },
+  {
+    "user_id": "user_026",
+    "age_group": "16-17",
+    "join_date": "2024-09-19",
+    "privacy_level": "low",
+    "parental_consent": false,
+    "preferred_language": "French",
+    "accessibility_needs": "screen_reader"
+  },
+  {
+    "user_id": "user_027",
+    "age_group": "13-14",
+    "join_date": "2024-08-21",
+    "privacy_level": "low",
+    "parental_consent": true,
+    "preferred_language": "Spanish",
+    "accessibility_needs": "large_text"
+  },
+  {
+    "user_id": "user_028",
+    "age_group": "14-15",
+    "join_date": "2024-08-31",
+    "privacy_level": "high",
+    "parental_consent": false,
+    "preferred_language": "French",
+    "accessibility_needs": "screen_reader"
+  },
+  {
+    "user_id": "user_029",
+    "age_group": "17-18",
+    "join_date": "2025-03-19",
+    "privacy_level": "low",
+    "parental_consent": false,
+    "preferred_language": "Spanish",
+    "accessibility_needs": "large_text"
+  },
+  {
+    "user_id": "user_030",
+    "age_group": "15-16",
+    "join_date": "2025-07-18",
+    "privacy_level": "low",
+    "parental_consent": false,
+    "preferred_language": "Spanish",
+    "accessibility_needs": null
+  },
+  {
+    "user_id": "user_031",
+    "age_group": "15-16",
+    "join_date": "2025-06-03",
+    "privacy_level": "medium",
+    "parental_consent": false,
+    "preferred_language": "English",
+    "accessibility_needs": "screen_reader"
+  },
+  {
+    "user_id": "user_032",
+    "age_group": "15-16",
+    "join_date": "2025-07-24",
+    "privacy_level": "high",
+    "parental_consent": true,
+    "preferred_language": "French",
+    "accessibility_needs": "screen_reader"
+  },
+  {
+    "user_id": "user_033",
+    "age_group": "15-16",
+    "join_date": "2025-03-09",
+    "privacy_level": "low",
+    "parental_consent": false,
+    "preferred_language": "French",
+    "accessibility_needs": "screen_reader"
+  },
+  {
+    "user_id": "user_034",
+    "age_group": "16-17",
+    "join_date": "2025-07-21",
+    "privacy_level": "high",
+    "parental_consent": false,
+    "preferred_language": "Spanish",
+    "accessibility_needs": "large_text"
+  },
+  {
+    "user_id": "user_035",
+    "age_group": "14-15",
+    "join_date": "2024-12-24",
+    "privacy_level": "low",
+    "parental_consent": true,
+    "preferred_language": "English",
+    "accessibility_needs": null
+  },
+  {
+    "user_id": "user_036",
+    "age_group": "13-14",
+    "join_date": "2024-09-28",
+    "privacy_level": "high",
+    "parental_consent": false,
+    "preferred_language": "French",
+    "accessibility_needs": null
+  },
+  {
+    "user_id": "user_037",
+    "age_group": "16-17",
+    "join_date": "2025-07-19",
+    "privacy_level": "high",
+    "parental_consent": false,
+    "preferred_language": "English",
+    "accessibility_needs": "high_contrast"
+  },
+  {
+    "user_id": "user_038",
+    "age_group": "17-18",
+    "join_date": "2025-07-20",
+    "privacy_level": "medium",
+    "parental_consent": false,
+    "preferred_language": "Spanish",
+    "accessibility_needs": "high_contrast"
+  },
+  {
+    "user_id": "user_039",
+    "age_group": "13-14",
+    "join_date": "2024-11-28",
+    "privacy_level": "high",
+    "parental_consent": true,
+    "preferred_language": "Spanish",
+    "accessibility_needs": "screen_reader"
+  },
+  {
+    "user_id": "user_040",
+    "age_group": "15-16",
+    "join_date": "2024-10-26",
+    "privacy_level": "low",
+    "parental_consent": true,
+    "preferred_language": "Spanish",
+    "accessibility_needs": "high_contrast"
+  },
+  {
+    "user_id": "user_041",
+    "age_group": "13-14",
+    "join_date": "2025-04-11",
+    "privacy_level": "low",
+    "parental_consent": true,
+    "preferred_language": "Spanish",
+    "accessibility_needs": "high_contrast"
+  },
+  {
+    "user_id": "user_042",
+    "age_group": "16-17",
+    "join_date": "2025-06-23",
+    "privacy_level": "high",
+    "parental_consent": false,
+    "preferred_language": "French",
+    "accessibility_needs": "high_contrast"
+  },
+  {
+    "user_id": "user_043",
+    "age_group": "13-14",
+    "join_date": "2024-08-08",
+    "privacy_level": "medium",
+    "parental_consent": true,
+    "preferred_language": "French",
+    "accessibility_needs": "high_contrast"
+  },
+  {
+    "user_id": "user_044",
+    "age_group": "15-16",
+    "join_date": "2025-05-10",
+    "privacy_level": "low",
+    "parental_consent": false,
+    "preferred_language": "Spanish",
+    "accessibility_needs": "high_contrast"
+  },
+  {
+    "user_id": "user_045",
+    "age_group": "16-17",
+    "join_date": "2025-06-11",
+    "privacy_level": "low",
+    "parental_consent": false,
+    "preferred_language": "Spanish",
+    "accessibility_needs": "large_text"
+  },
+  {
+    "user_id": "user_046",
+    "age_group": "17-18",
+    "join_date": "2024-11-09",
+    "privacy_level": "medium",
+    "parental_consent": false,
+    "preferred_language": "Spanish",
+    "accessibility_needs": null
+  },
+  {
+    "user_id": "user_047",
+    "age_group": "16-17",
+    "join_date": "2025-01-14",
+    "privacy_level": "low",
+    "parental_consent": false,
+    "preferred_language": "French",
+    "accessibility_needs": "large_text"
+  },
+  {
+    "user_id": "user_048",
+    "age_group": "17-18",
+    "join_date": "2024-09-01",
+    "privacy_level": "medium",
+    "parental_consent": false,
+    "preferred_language": "French",
+    "accessibility_needs": "screen_reader"
+  },
+  {
+    "user_id": "user_049",
+    "age_group": "13-14",
+    "join_date": "2024-09-17",
+    "privacy_level": "low",
+    "parental_consent": true,
+    "preferred_language": "English",
+    "accessibility_needs": "screen_reader"
+  },
+  {
+    "user_id": "user_050",
+    "age_group": "14-15",
+    "join_date": "2024-11-14",
+    "privacy_level": "medium",
+    "parental_consent": true,
+    "preferred_language": "French",
+    "accessibility_needs": "large_text"
+  }
+]

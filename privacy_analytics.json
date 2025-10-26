@@ -1,0 +1,31 @@
+{
+  "aggregate_mood_trends": {
+    "avg_mood_score_last_week": 6.2,
+    "most_common_mood": "Neutral",
+    "mood_improvement_trend": "Slight positive trend",
+    "peak_mood_times": [
+      "After school",
+      "Weekends"
+    ],
+    "challenging_periods": [
+      "Monday mornings",
+      "Exam weeks"
+    ]
+  },
+  "usage_patterns": {
+    "avg_daily_app_usage": "12 minutes",
+    "most_used_features": [
+      "Mood tracking",
+      "Resource hub",
+      "Journal"
+    ],
+    "engagement_rate": "78%",
+    "retention_rate_30_days": "65%"
+  },
+  "wellness_insights": {
+    "sleep_correlation": "Users with 7-9 hours sleep report 23% higher mood scores",
+    "exercise_correlation": "Physical activity increases mood scores by 15%",
+    "journal_benefit": "Regular journaling associated with 18% mood improvement",
+    "resource_usage": "Users accessing crisis resources show 25% faster recovery"
+  }
+}

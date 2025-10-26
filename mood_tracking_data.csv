@@ -1,0 +1,301 @@
+user_id,date,mood,mood_score,sleep_hours,exercise_minutes,social_interaction,stress_level
+user_001,2025-07-30,Neutral,6,12,54,Low,4
+user_001,2025-07-29,Very Happy,9,10,52,Low,1
+user_001,2025-07-28,Anxious,10,9,47,Medium,1
+user_001,2025-07-27,Frustrated,3,8,89,High,4
+user_001,2025-07-26,Anxious,1,5,13,Low,5
+user_001,2025-07-25,Frustrated,6,11,99,Medium,3
+user_001,2025-07-24,Excited,10,7,110,Medium,5
+user_001,2025-07-23,Happy,9,4,104,High,2
+user_001,2025-07-22,Neutral,9,6,24,Medium,1
+user_001,2025-07-21,Happy,3,4,25,Medium,2
+user_001,2025-07-20,Very Happy,7,7,108,High,5
+user_001,2025-07-19,Excited,7,6,76,Medium,1
+user_001,2025-07-18,Sad,7,12,114,Medium,5
+user_001,2025-07-17,Sad,4,5,10,High,5
+user_001,2025-07-16,Happy,6,10,28,High,3
+user_001,2025-07-15,Anxious,6,11,97,High,4
+user_001,2025-07-14,Excited,8,9,108,Low,1
+user_001,2025-07-13,Happy,4,8,63,Medium,4
+user_001,2025-07-12,Anxious,1,6,55,High,4
+user_001,2025-07-11,Neutral,10,8,105,Low,3
+user_001,2025-07-10,Neutral,1,11,32,High,5
+user_001,2025-07-09,Sad,5,4,16,Medium,4
+user_001,2025-07-08,Frustrated,7,10,22,High,1
+user_001,2025-07-07,Excited,9,4,75,Low,1
+user_001,2025-07-06,Excited,3,10,94,Low,4
+user_001,2025-07-05,Happy,2,10,117,High,1
+user_001,2025-07-04,Happy,5,7,73,Medium,3
+user_001,2025-07-03,Neutral,1,8,96,Medium,3
+user_001,2025-07-02,Neutral,4,11,15,Low,1
+user_001,2025-07-01,Frustrated,3,10,98,High,4
+user_002,2025-07-30,Excited,10,10,45,Medium,2
+user_002,2025-07-29,Anxious,6,5,77,Low,2
+user_002,2025-07-28,Very Sad,2,9,24,High,2
+user_002,2025-07-27,Sad,8,12,1,Medium,1
+user_002,2025-07-26,Very Sad,3,9,38,Low,4
+user_002,2025-07-25,Sad,7,8,41,Medium,5
+user_002,2025-07-24,Anxious,9,8,116,Medium,1
+user_002,2025-07-23,Anxious,6,7,7,Low,5
+user_002,2025-07-22,Excited,2,7,82,High,2
+user_002,2025-07-21,Very Sad,2,11,74,High,2
+user_002,2025-07-20,Frustrated,10,7,24,High,4
+user_002,2025-07-19,Very Happy,2,7,88,High,1
+user_002,2025-07-18,Very Happy,2,11,65,Medium,1
+user_002,2025-07-17,Very Sad,7,7,53,Low,1
+user_002,2025-07-16,Neutral,2,8,89,Medium,5
+user_002,2025-07-15,Very Sad,9,8,54,Medium,5
+user_002,2025-07-14,Anxious,7,7,22,Medium,1
+user_002,2025-07-13,Very Sad,7,11,63,High,2
+user_002,2025-07-12,Neutral,6,4,24,High,3
+user_002,2025-07-11,Happy,7,10,93,Medium,3
+user_002,2025-07-10,Neutral,6,8,108,High,3
+user_002,2025-07-09,Very Sad,10,10,66,Low,2
+user_002,2025-07-08,Sad,6,12,59,Medium,3
+user_002,2025-07-07,Happy,2,10,49,Low,4
+user_002,2025-07-06,Anxious,8,7,3,Medium,5
+user_002,2025-07-05,Excited,9,7,90,High,3
+user_002,2025-07-04,Happy,10,5,118,Medium,4
+user_002,2025-07-03,Very Sad,9,10,59,Medium,2
+user_002,2025-07-02,Anxious,2,11,115,Low,2
+user_002,2025-07-01,Frustrated,4,8,33,Medium,5
+user_003,2025-07-30,Very Sad,2,11,85,High,4
+user_003,2025-07-29,Very Sad,8,7,9,Low,4
+user_003,2025-07-28,Very Sad,1,6,115,High,4
+user_003,2025-07-27,Neutral,8,10,5,High,3
+user_003,2025-07-26,Very Sad,5,10,92,Low,1
+user_003,2025-07-25,Sad,5,5,105,Medium,2
+user_003,2025-07-24,Sad,1,6,84,Low,1
+user_003,2025-07-23,Very Sad,7,9,29,Low,3
+user_003,2025-07-22,Sad,8,9,54,Medium,2
+user_003,2025-07-21,Frustrated,8,11,106,Medium,4
+user_003,2025-07-20,Very Sad,1,8,98,Medium,2
+user_003,2025-07-19,Frustrated,8,8,68,Low,5
+user_003,2025-07-18,Very Happy,8,8,43,High,3
+user_003,2025-07-17,Neutral,10,6,37,High,3
+user_003,2025-07-16,Happy,7,5,36,High,4
+user_003,2025-07-15,Very Happy,10,8,64,Medium,2
+user_003,2025-07-14,Very Sad,6,11,63,High,3
+user_003,2025-07-13,Neutral,7,6,107,Low,5
+user_003,2025-07-12,Excited,10,5,50,Low,1
+user_003,2025-07-11,Frustrated,9,12,64,High,4
+user_003,2025-07-10,Very Happy,9,11,26,Low,2
+user_003,2025-07-09,Neutral,8,12,73,Low,1
+user_003,2025-07-08,Excited,2,5,40,Medium,5
+user_003,2025-07-07,Very Happy,6,5,42,High,5
+user_003,2025-07-06,Neutral,9,10,60,High,3
+user_003,2025-07-05,Excited,2,10,7,Low,5
+user_003,2025-07-04,Excited,5,6,80,Medium,5
+user_003,2025-07-03,Anxious,3,8,27,Medium,4
+user_003,2025-07-02,Happy,8,6,92,Medium,5
+user_003,2025-07-01,Happy,2,4,65,Low,1
+user_004,2025-07-30,Excited,7,7,7,High,2
+user_004,2025-07-29,Frustrated,4,12,99,Low,5
+user_004,2025-07-28,Anxious,3,7,74,High,2
+user_004,2025-07-27,Anxious,5,9,48,Low,2
+user_004,2025-07-26,Frustrated,1,10,14,High,5
+user_004,2025-07-25,Excited,10,9,11,Medium,2
+user_004,2025-07-24,Very Sad,4,7,18,Medium,3
+user_004,2025-07-23,Sad,5,9,88,Low,4
+user_004,2025-07-22,Excited,8,6,61,Medium,2
+user_004,2025-07-21,Excited,5,7,117,High,4
+user_004,2025-07-20,Frustrated,4,7,5,Low,5
+user_004,2025-07-19,Sad,5,6,19,Low,2
+user_004,2025-07-18,Very Sad,7,11,17,High,4
+user_004,2025-07-17,Frustrated,2,7,118,High,4
+user_004,2025-07-16,Neutral,1,9,102,Medium,2
+user_004,2025-07-15,Neutral,10,5,27,Medium,4
+user_004,2025-07-14,Anxious,5,5,3,Low,2
+user_004,2025-07-13,Happy,4,4,55,Low,5
+user_004,2025-07-12,Frustrated,10,11,94,High,3
+user_004,2025-07-11,Anxious,9,7,31,Low,2
+user_004,2025-07-10,Happy,8,9,119,High,2
+user_004,2025-07-09,Anxious,9,5,15,Medium,1
+user_004,2025-07-08,Sad,7,5,20,High,5
+user_004,2025-07-07,Very Sad,2,10,119,Low,1
+user_004,2025-07-06,Sad,6,8,89,High,4
+user_004,2025-07-05,Happy,6,5,113,Medium,3
+user_004,2025-07-04,Neutral,2,7,44,Low,3
+user_004,2025-07-03,Very Sad,10,7,115,Medium,5
+user_004,2025-07-02,Excited,3,8,96,Low,4
+user_004,2025-07-01,Happy,10,9,31,High,3
+user_005,2025-07-30,Sad,3,7,75,Medium,3
+user_005,2025-07-29,Excited,7,10,37,Medium,2
+user_005,2025-07-28,Anxious,10,11,110,High,3
+user_005,2025-07-27,Excited,8,8,76,High,4
+user_005,2025-07-26,Anxious,3,10,93,Medium,3
+user_005,2025-07-25,Excited,5,5,74,Low,3
+user_005,2025-07-24,Very Happy,8,5,98,Low,2
+user_005,2025-07-23,Frustrated,8,9,83,Medium,2
+user_005,2025-07-22,Neutral,9,7,93,Medium,1
+user_005,2025-07-21,Happy,2,8,102,High,3
+user_005,2025-07-20,Excited,3,12,71,Medium,1
+user_005,2025-07-19,Neutral,8,11,58,High,5
+user_005,2025-07-18,Very Sad,10,11,114,Medium,4
+user_005,2025-07-17,Very Happy,3,4,9,Low,1
+user_005,2025-07-16,Very Happy,4,9,65,Medium,3
+user_005,2025-07-15,Excited,5,11,42,High,2
+user_005,2025-07-14,Very Happy,2,12,68,High,1
+user_005,2025-07-13,Excited,4,7,13,Low,4
+user_005,2025-07-12,Sad,2,5,101,High,2
+user_005,2025-07-11,Neutral,10,7,53,Medium,1
+user_005,2025-07-10,Anxious,9,5,86,Medium,1
+user_005,2025-07-09,Very Happy,5,4,86,High,2
+user_005,2025-07-08,Very Happy,10,10,3,Low,1
+user_005,2025-07-07,Very Happy,7,4,101,Medium,4
+user_005,2025-07-06,Excited,10,7,103,Low,2
+user_005,2025-07-05,Neutral,4,12,0,Low,3
+user_005,2025-07-04,Anxious,6,12,100,High,1
+user_005,2025-07-03,Frustrated,8,12,82,Medium,1
+user_005,2025-07-02,Happy,8,5,67,High,4
+user_005,2025-07-01,Excited,9,10,117,Medium,1
+user_006,2025-07-30,Anxious,2,6,64,Low,1
+user_006,2025-07-29,Very Sad,6,7,69,Medium,2
+user_006,2025-07-28,Very Happy,9,4,59,Low,4
+user_006,2025-07-27,Sad,2,5,16,Medium,5
+user_006,2025-07-26,Very Happy,6,7,10,Medium,5
+user_006,2025-07-25,Excited,3,5,26,Medium,5
+user_006,2025-07-24,Very Happy,9,9,75,High,4
+user_006,2025-07-23,Very Happy,1,9,105,Low,2
+user_006,2025-07-22,Sad,1,9,40,Medium,5
+user_006,2025-07-21,Excited,8,9,112,High,5
+user_006,2025-07-20,Excited,10,12,21,Medium,5
+user_006,2025-07-19,Neutral,10,10,90,Low,3
+user_006,2025-07-18,Sad,8,4,34,High,3
+user_006,2025-07-17,Very Happy,2,11,100,High,4
+user_006,2025-07-16,Very Sad,2,7,43,High,3
+user_006,2025-07-15,Very Happy,1,7,31,High,4
+user_006,2025-07-14,Excited,8,7,20,High,1
+user_006,2025-07-13,Neutral,7,9,21,High,4
+user_006,2025-07-12,Anxious,4,11,38,Low,5
+user_006,2025-07-11,Neutral,5,6,75,High,3
+user_006,2025-07-10,Very Happy,7,8,120,Medium,1
+user_006,2025-07-09,Very Sad,9,8,115,Low,5
+user_006,2025-07-08,Anxious,9,9,66,Medium,4
+user_006,2025-07-07,Neutral,8,6,67,High,3
+user_006,2025-07-06,Neutral,10,4,114,High,3
+user_006,2025-07-05,Excited,1,10,58,High,2
+user_006,2025-07-04,Very Happy,6,9,11,Low,3
+user_006,2025-07-03,Frustrated,6,6,116,Low,2
+user_006,2025-07-02,Neutral,6,6,64,Medium,2
+user_006,2025-07-01,Frustrated,4,9,16,Low,2
+user_007,2025-07-30,Very Sad,8,5,117,Low,3
+user_007,2025-07-29,Very Sad,8,6,16,Low,3
+user_007,2025-07-28,Very Sad,7,12,108,Medium,4
+user_007,2025-07-27,Sad,7,6,99,Low,1
+user_007,2025-07-26,Happy,8,9,68,Medium,5
+user_007,2025-07-25,Neutral,7,8,19,High,5
+user_007,2025-07-24,Excited,7,12,33,Low,3
+user_007,2025-07-23,Sad,8,6,80,High,1
+user_007,2025-07-22,Very Happy,3,6,10,Low,3
+user_007,2025-07-21,Very Sad,7,9,120,Low,2
+user_007,2025-07-20,Very Sad,4,10,88,High,2
+user_007,2025-07-19,Very Happy,10,6,18,Medium,4
+user_007,2025-07-18,Anxious,4,7,79,Medium,5
+user_007,2025-07-17,Happy,1,5,15,Low,5
+user_007,2025-07-16,Sad,8,4,41,High,2
+user_007,2025-07-15,Sad,10,5,63,Low,4
+user_007,2025-07-14,Very Sad,6,4,47,Low,2
+user_007,2025-07-13,Anxious,4,6,54,Low,3
+user_007,2025-07-12,Happy,4,8,25,High,3
+user_007,2025-07-11,Neutral,9,8,19,Medium,1
+user_007,2025-07-10,Anxious,9,12,56,Low,2
+user_007,2025-07-09,Very Happy,4,12,9,Medium,1
+user_007,2025-07-08,Frustrated,2,12,7,Medium,3
+user_007,2025-07-07,Happy,6,9,13,High,2
+user_007,2025-07-06,Excited,6,6,10,Medium,2
+user_007,2025-07-05,Neutral,3,7,110,Medium,4
+user_007,2025-07-04,Excited,1,6,93,Medium,4
+user_007,2025-07-03,Frustrated,3,10,96,Medium,4
+user_007,2025-07-02,Excited,6,10,71,Medium,1
+user_007,2025-07-01,Excited,3,6,94,Low,4
+user_008,2025-07-30,Sad,1,4,90,Medium,3
+user_008,2025-07-29,Very Sad,1,12,109,Low,5
+user_008,2025-07-28,Anxious,6,4,10,Low,5
+user_008,2025-07-27,Anxious,8,7,23,High,3
+user_008,2025-07-26,Anxious,3,12,79,High,5
+user_008,2025-07-25,Sad,7,7,2,Low,2
+user_008,2025-07-24,Sad,10,4,37,High,3
+user_008,2025-07-23,Anxious,7,5,119,High,1
+user_008,2025-07-22,Neutral,10,5,16,Low,1
+user_008,2025-07-21,Sad,10,8,43,Low,3
+user_008,2025-07-20,Happy,6,10,80,Medium,4
+user_008,2025-07-19,Sad,5,9,9,Medium,3
+user_008,2025-07-18,Happy,4,10,89,Low,5
+user_008,2025-07-17,Happy,10,6,16,Low,3
+user_008,2025-07-16,Excited,5,12,6,High,5
+user_008,2025-07-15,Very Sad,6,6,4,High,2
+user_008,2025-07-14,Frustrated,1,12,58,Medium,1
+user_008,2025-07-13,Sad,9,4,82,Medium,1
+user_008,2025-07-12,Very Sad,5,10,12,Low,4
+user_008,2025-07-11,Happy,8,11,32,Medium,1
+user_008,2025-07-10,Sad,1,11,66,Medium,5
+user_008,2025-07-09,Frustrated,8,7,50,Medium,4
+user_008,2025-07-08,Anxious,6,12,49,Low,5
+user_008,2025-07-07,Very Sad,5,4,46,High,1
+user_008,2025-07-06,Sad,4,4,37,High,3
+user_008,2025-07-05,Happy,9,8,25,High,2
+user_008,2025-07-04,Very Sad,5,8,114,Medium,5
+user_008,2025-07-03,Neutral,5,8,81,Low,3
+user_008,2025-07-02,Frustrated,5,9,38,High,3
+user_008,2025-07-01,Frustrated,2,5,90,Medium,5
+user_009,2025-07-30,Excited,1,5,112,High,3
+user_009,2025-07-29,Sad,1,11,75,Low,3
+user_009,2025-07-28,Very Sad,8,12,105,Low,1
+user_009,2025-07-27,Excited,7,7,6,Medium,1
+user_009,2025-07-26,Sad,2,7,66,High,2
+user_009,2025-07-25,Anxious,9,4,61,High,4
+user_009,2025-07-24,Anxious,1,11,42,Low,3
+user_009,2025-07-23,Frustrated,10,6,47,Low,2
+user_009,2025-07-22,Happy,6,4,69,High,1
+user_009,2025-07-21,Happy,5,4,78,High,3
+user_009,2025-07-20,Sad,6,4,60,High,1
+user_009,2025-07-19,Happy,5,12,7,Low,2
+user_009,2025-07-18,Sad,1,11,64,High,3
+user_009,2025-07-17,Very Happy,1,7,118,Low,2
+user_009,2025-07-16,Excited,10,7,51,Medium,5
+user_009,2025-07-15,Excited,5,10,92,High,1
+user_009,2025-07-14,Anxious,6,5,91,Low,4
+user_009,2025-07-13,Happy,8,4,65,High,5
+user_009,2025-07-12,Very Happy,3,10,17,High,3
+user_009,2025-07-11,Neutral,1,5,86,Medium,5
+user_009,2025-07-10,Neutral,8,4,106,Medium,2
+user_009,2025-07-09,Excited,4,5,111,Low,3
+user_009,2025-07-08,Frustrated,7,9,114,High,3
+user_009,2025-07-07,Anxious,8,12,62,Low,5
+user_009,2025-07-06,Frustrated,2,12,2,Medium,3
+user_009,2025-07-05,Neutral,7,4,57,High,2
+user_009,2025-07-04,Frustrated,6,7,83,Low,3
+user_009,2025-07-03,Frustrated,3,9,46,Low,1
+user_009,2025-07-02,Excited,4,5,105,Low,1
+user_009,2025-07-01,Anxious,2,6,19,Low,5
+user_010,2025-07-30,Anxious,3,12,39,Low,4
+user_010,2025-07-29,Frustrated,10,4,100,High,4
+user_010,2025-07-28,Happy,6,8,111,High,2
+user_010,2025-07-27,Very Sad,3,7,22,Medium,3
+user_010,2025-07-26,Sad,9,5,27,Medium,5
+user_010,2025-07-25,Happy,1,7,14,Low,1
+user_010,2025-07-24,Excited,2,6,109,Medium,1
+user_010,2025-07-23,Very Happy,2,11,12,Low,2
+user_010,2025-07-22,Frustrated,2,9,58,Low,3
+user_010,2025-07-21,Sad,5,5,16,Low,4
+user_010,2025-07-20,Very Sad,10,9,38,Low,5
+user_010,2025-07-19,Anxious,9,9,106,Low,4
+user_010,2025-07-18,Very Sad,9,9,51,High,1
+user_010,2025-07-17,Excited,8,8,43,High,4
+user_010,2025-07-16,Anxious,5,5,15,High,2
+user_010,2025-07-15,Happy,6,11,12,Low,4
+user_010,2025-07-14,Very Happy,8,11,87,High,3
+user_010,2025-07-13,Anxious,10,10,23,Low,4
+user_010,2025-07-12,Neutral,5,9,77,Medium,4
+user_010,2025-07-11,Anxious,1,5,14,Medium,4
+user_010,2025-07-10,Neutral,5,12,21,Medium,4
+user_010,2025-07-09,Very Sad,1,5,110,High,1
+user_010,2025-07-08,Neutral,6,9,56,Low,4
+user_010,2025-07-07,Very Happy,2,7,115,Low,4
+user_010,2025-07-06,Very Happy,3,5,118,High,4
+user_010,2025-07-05,Frustrated,1,12,118,Medium,3
+user_010,2025-07-04,Very Happy,4,10,40,Medium,1
+user_010,2025-07-03,Very Sad,1,7,36,Low,3
+user_010,2025-07-02,Excited,8,5,94,Medium,5
+user_010,2025-07-01,Neutral,4,6,28,High,3

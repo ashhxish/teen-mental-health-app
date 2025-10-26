@@ -1,0 +1,42 @@
+[
+  {
+    "name": "988 Suicide & Crisis Lifeline",
+    "type": "Crisis Hotline",
+    "contact": "Call or text 988",
+    "availability": "24/7",
+    "target_age": "All ages",
+    "description": "Free, confidential crisis support"
+  },
+  {
+    "name": "Crisis Text Line",
+    "type": "Text Support",
+    "contact": "Text HOME to 741741",
+    "availability": "24/7",
+    "target_age": "All ages",
+    "description": "Anonymous crisis counseling via text"
+  },
+  {
+    "name": "Teen Crisis Textline",
+    "type": "Teen-Specific Text Support",
+    "contact": "Text 833-TXT-TEEN (833-898-8336)",
+    "availability": "24/7",
+    "target_age": "13-22",
+    "description": "Crisis support specifically for teens and young adults"
+  },
+  {
+    "name": "YouthLine",
+    "type": "Peer Support",
+    "contact": "Call 877-968-8491 or text 'teen2teen' to 839863",
+    "availability": "4 PM - 10 PM Pacific",
+    "target_age": "Teens",
+    "description": "Peer-to-peer crisis support run by trained teen volunteers"
+  },
+  {
+    "name": "NAMI Teen & Young Adult HelpLine",
+    "type": "Information & Support",
+    "contact": "Text NAMI to 62640",
+    "availability": "Business hours",
+    "target_age": "Teens & Young Adults",
+    "description": "Mental health information and emotional support"
+  }
+]
